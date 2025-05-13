@@ -1,4 +1,10 @@
 # 💫 About Me:
+##  Hi, I'm Sanjana Kazi Supti!
+
+![Profile Views](https://komarev.com/ghpvc/?username=sanjana514&color=red&style=flat-square)
+
+Welcome to my GitHub profile! I'm passionate about Data Science, AI, and full-stack development.  
+Here are my socials and projects—feel free to explore!
 I'm currently studing
 
 
