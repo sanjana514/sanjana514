@@ -13,7 +13,7 @@ I'm currently studing
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/squirrelsss__)&nbsp;
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sanjana05)&nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjanakazisupti@gmail.com)&nbsp;
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/sanjana514);
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/sanjana514)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-800080?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjana-kazi-supti-07766b36a/)
 
 
