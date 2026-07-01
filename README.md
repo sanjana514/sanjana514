@@ -3,9 +3,23 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sanjana514&color=red&style=flat-square)
 
-Welcome to my GitHub profile! I'm passionate about Data Science, AI, and front-end development.  
-Here are my socials and projects—feel free to explore!
-I'm currently studing
+## 👋 Hi, I'm [Your Name]
+
+🎓 CSE Graduate from East West University, Bangladesh
+
+🤖 Interested in Artificial Intelligence, Machine Learning, Computer Vision, Intelligent Systems, Big Data Analytics, Recommendation Systems, and Robotics.
+
+💻 I enjoy building AI-powered applications, computer vision systems, recommendation systems, and data-driven solutions that solve real-world problems.
+
+📄 Published **2 research papers** with a strong interest in AI research, intelligent systems, and practical machine learning applications.
+
+🛠️ Primary Languages: **Python** • **C++**
+
+🌱 Currently learning advanced AI, LLMs, RAG, Vector Databases, MLOps, and scalable machine learning systems.
+
+🎯 Seeking opportunities as an **AI/ML Engineer** or **Research Assistant (RA)**.
+
+📫 Feel free to explore my repositories or connect with me to collaborate on AI, research, or open-source projects.
 
 
 ## 🌐 Socials:
