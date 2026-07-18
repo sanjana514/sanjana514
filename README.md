@@ -3,8 +3,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sanjana514&color=red&style=flat-square)
 
-## 👋 Hi, I'm [Your Name]
-
 🎓 CSE Graduate from East West University, Bangladesh
 
 🤖 Interested in Artificial Intelligence, Machine Learning, Computer Vision, Intelligent Systems, Big Data Analytics, Recommendation Systems, and Robotics.
