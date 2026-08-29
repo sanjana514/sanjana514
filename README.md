@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanjana514&label=Profile+Views&color=F7931E&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=sanjana514&color=F7931E&style=flat" alt="Profile Views"/>
 </p>
 
 ###  About Me
