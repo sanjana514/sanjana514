@@ -1,5 +1,9 @@
-<h1 align="center">Hi there, I'm Sanjana Kazi Supti 👋</h1>
-<h3 align="center">AI/ML Researcher | Computer Vision Enthusiast | Building Intelligent Solutions</h3>
+<h1 align="center">💫 About Me</h1>
+<h2 align="center">Hi, I'm Sanjana Kazi Supti! 👋</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=AI%2FML+Researcher;Computer+Vision+Enthusiast;3x+Published+Research+Author;Building+Real-World+AI+Solutions" alt="Typing SVG" />
+</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sanjana514&color=red&style=flat-square)
 
