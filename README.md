@@ -5,7 +5,7 @@
 
 
 <p align="center">
- ![Profile Views](https://komarev.com/ghpvc/?username=sanjana514&color=orange&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=sanjana514&color=F7931E&style=for-the-badge)
 </p>
 
 
