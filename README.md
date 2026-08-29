@@ -30,7 +30,7 @@
 | 2 | [Real-Time Sunflower Detection Using Semi-Supervised and Self-Supervised Deep Learning for Precision Agriculture](https://www.sciencedirect.com/science/article/pii/S2772375525009153) | Smart Agricultural Technology *(Q1)* | 2025 | Journal |
 | 3 | [Interpretable Machine Learning for Early Diabetes Prediction with Statistical Validation and Explainable AI](https://ieeexplore.ieee.org/abstract/document/11504208) | 2025 IEEE International Conference on Biomedical Engineering, Computer and Information Technology for Health (BECITHCON) | 2025 | Conference |
 
-🔗 Full publication list on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=1Er-jQIAAAAJ)
+➡️ Full publication list on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=1Er-jQIAAAAJ)
 
 ##  Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SanjanaKaziSupti)&nbsp;
