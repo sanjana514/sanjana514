@@ -4,7 +4,9 @@
 </p>
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=sanjana514&color=orange&style=flat-square)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sanjana514&label=Profile+Views&color=F7931E&style=flat-square" alt="Profile Views"/>
+</p>
 
 ###  About Me
 - Recent CSE Graduate from East West University, Dhaka, Bangladesh, passionate about building AI solutions that matter
@@ -13,7 +15,7 @@
 - I build end-to-end solutions from data processing and model development (Python, C++) to front-end/back-end integration
 - Currently exploring LLMs, RAG, Vector Databases to keep learning how modern AI systems are built and deployed
 
->⭐ **Currently seeking:** AI/ML Engineer or Research Assistant (RA) opportunities.
+> ⭐ **Currently seeking:** AI/ML Engineer or Research Assistant (RA) opportunities.
 >  Open to collaborating on AI, research, or open-source projects — feel free to reach out!
 
 
