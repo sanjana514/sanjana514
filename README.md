@@ -19,9 +19,15 @@
 
 
 ##  Education
-- **B.Sc. in Computer Science & Engineering (CSE)** — East West University, Dhaka — CGPA: 3.84
-- **HSC** — Shamsul Hoque Khan School & College — GPA: 5.00
-- **SSC** — Bright School & College — GPA: 5.00
+**B.Sc. in Computer Science & Engineering (CSE)**
+East West University, Dhaka
+CGPA: **3.84** / 4.00
+**Higher Secondary Certificate (HSC)**
+Shamsul Hoque Khan School & College
+GPA: **5.00** / 5.00
+**Secondary School Certificate (SSC)**
+Bright School & College
+GPA: **5.00** / 5.00
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SanjanaKaziSupti)&nbsp;
