@@ -22,7 +22,7 @@
 - **Higher Secondary Certificate (HSC)** — Shamsul Hoque Khan School & College | GPA: **5.00** / 5.00
 - **Secondary School Certificate (SSC)** — Bright School & College | GPA: **5.00** / 5.00
 
-## 📄 Publications
+##  Publications
 
 | # | Title | Venue | Year | Type |
 |---|-------|-------|------|------|
@@ -30,8 +30,9 @@
 | 2 | [Real-Time Sunflower Detection Using Semi-Supervised and Self-Supervised Deep Learning for Precision Agriculture](https://www.sciencedirect.com/science/article/pii/S2772375525009153) | Smart Agricultural Technology *(Q1)* | 2025 | Journal |
 | 3 | [Interpretable Machine Learning for Early Diabetes Prediction with Statistical Validation and Explainable AI](https://ieeexplore.ieee.org/abstract/document/11504208) | 2025 IEEE International Conference on Biomedical Engineering, Computer and Information Technology for Health (BECITHCON) | 2025 | Conference |
 
-📚 Full publication list on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=1Er-jQIAAAAJ)
-## 🌐 Socials:
+🔗 Full publication list on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=1Er-jQIAAAAJ)
+
+##  Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SanjanaKaziSupti)&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/squirrelsss__)&nbsp;
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sanjana05)&nbsp;
