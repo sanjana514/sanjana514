@@ -26,7 +26,7 @@
 
 | # | Title | Venue | Year | Type |
 |---|-------|-------|------|------|
-| 1 | [A Self-Supervised Vision-Guided Robotic System for Intelligent Post-Harvest Vegetable Freshness Sorting in Precision Agriculture](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1Er-jQIAAAAJ&citation_for_view=1Er-jQIAAAAJ:d1gkVwhDpl0C) | Smart Agricultural Technology *(Q1)* | 2026 | Journal |
+| 1 | [A Self-Supervised Vision-Guided Robotic System for Intelligent Post-Harvest Vegetable Freshness Sorting in Precision Agriculture]([https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1Er-jQIAAAAJ&citation_for_view=1Er-jQIAAAAJ:d1gkVwhDpl0C](https://www.sciencedirect.com/science/article/pii/S2772375526006787)) | Smart Agricultural Technology *(Q1)* | 2026 | Journal |
 | 2 | [Real-Time Sunflower Detection Using Semi-Supervised and Self-Supervised Deep Learning for Precision Agriculture](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1Er-jQIAAAAJ&citation_for_view=1Er-jQIAAAAJ:u-x6o8ySG0sC) | Smart Agricultural Technology *(Q1)* | 2025 | Journal |
 | 3 | [Interpretable Machine Learning for Early Diabetes Prediction with Statistical Validation and Explainable AI](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=1Er-jQIAAAAJ&citation_for_view=1Er-jQIAAAAJ:9yKSN-GCB0IC) | 2025 IEEE International Conference on Biomedical Engineering, Computer and Information Technology for Health (BECITHCON) | 2025 | Conference |
 
