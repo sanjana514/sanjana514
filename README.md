@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Sanjana Kazi Supti! </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7931E&center=true&vCenter=true&width=700&lines=AI%2FML+Researcher+%E2%80%A2+Computer+Vision+%E2%80%A2+Intelligent+Systems;3x+Published+Research+Author;Building+Real-World+AI+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=AI%2FML+Researcher+%E2%80%A2+Computer+Vision+%E2%80%A2+Building+Intelligent+Systems;3x+Published+Research+Author;Building+Real-World+AI+Solutions" alt="Typing SVG" />
 </p>
-
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=sanjana514&color=orange&style=flat-square)
 
