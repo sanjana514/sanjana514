@@ -18,7 +18,7 @@
 >  Open to collaborating on AI, research, or open-source projects — feel free to reach out!
 
 
-###  Education
+##  Education
 - **B.Sc. in Computer Science & Engineering (CSE)** — East West University, Dhaka — CGPA: 3.84
 - **HSC** — Shamsul Hoque Khan School & College — GPA: 5.00
 - **SSC** — Bright School & College — GPA: 5.00
