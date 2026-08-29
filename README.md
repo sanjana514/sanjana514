@@ -1,10 +1,13 @@
-<h1 align="center">💫 About Me</h1>
-<h2 align="center">Hi, I'm Sanjana Kazi Supti! 👋</h2>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=AI%2FML+Researcher;Computer+Vision+Enthusiast;3x+Published+Research+Author;Building+Real-World+AI+Solutions" alt="Typing SVG" />
-</p>
+# 💫 About Me
+### Hi, I'm Sanjana Kazi Supti! 👋
 
+*AI/ML Researcher • Computer Vision • Big Data Analytics*
+
+</div>
+
+---
 ![Profile Views](https://komarev.com/ghpvc/?username=sanjana514&color=red&style=flat-square)
 
 🎓 CSE Graduate from East West University, Bangladesh
