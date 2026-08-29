@@ -1,5 +1,5 @@
-# 💫 About Me:
-##  Hi, I'm Sanjana Kazi Supti!
+<h1 align="center">Hi there, I'm Sanjana Kazi Supti 👋</h1>
+<h3 align="center">AI/ML Researcher | Computer Vision Enthusiast | Building Intelligent Solutions</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sanjana514&color=red&style=flat-square)
 
