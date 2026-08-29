@@ -5,9 +5,8 @@
 
 
 <p align="center">
-  <img src="[https://komarev.com/ghpvc/?username=sanjana514&color=F7931E&style=for-the-badge" alt="Profile Views](https://komarev.com/ghpvc/?username=sanjana514&label=Profile+Views&color=F7931E&style=flat-square)"/>
+  <img src="https://komarev.com/ghpvc/?username=sanjana514&label=Profile+Views&color=F7931E&style=flat-square" alt="Profile Views"/>
 </p>
-
 
 ###  About Me
 - Recent CSE Graduate from East West University, Dhaka, Bangladesh, passionate about building AI solutions that matter
