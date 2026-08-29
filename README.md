@@ -4,7 +4,7 @@
 </p>
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=sanjana514&color=red&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=sanjana514&color=orange&style=flat-square)
 
 🎓 CSE Graduate from East West University, Bangladesh
 
