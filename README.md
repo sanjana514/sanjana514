@@ -3,7 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F7931E&center=true&vCenter=true&width=650&height=18&lines=AI%2FML+Researcher+%7C+Computer+Vision+Enthusiast;Building+Intelligent+Systems+%7C+3x+Published+Research+Author;Building+Real-World+AI+Solutions" alt="Typing SVG" />
 </p>
 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sanjana514&color=F7931E&style=flat" alt="Profile Views"/>
 </p>
@@ -18,6 +17,11 @@
 > ⭐ **Currently seeking:** AI/ML Engineer or Research Assistant (RA) opportunities.
 >  Open to collaborating on AI, research, or open-source projects — feel free to reach out!
 
+
+###  Education
+- **B.Sc. in Computer Science & Engineering (CSE)** — East West University, Dhaka — CGPA: 3.84
+- **HSC** — Shamsul Hoque Khan School & College — GPA: 5.00
+- **SSC** — Bright School & College — GPA: 5.00
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SanjanaKaziSupti)&nbsp;
