@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sanjana Kazi Supti! </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7931E&center=true&vCenter=true&width=650&lines=AI%2FML+Researcher+%7C+Computer+Vision+Enthusiast+%7C+Building+Intelligent+Solutions;3x+Published+Research+Author;Building+Real-World+AI+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=	24292F&center=true&vCenter=true&width=650&lines=AI%2FML+Researcher+%7C+Computer+Vision+Enthusiast+%7C+Building+Intelligent+Solutions;3x+Published+Research+Author;Building+Real-World+AI+Solutions" alt="Typing SVG" />
 </p>
 
 ---
