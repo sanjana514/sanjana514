@@ -89,61 +89,37 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/sanjana514)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-800080?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjana-kazi-supti-28b095388/)
 
-### 🛠️ Skills & Tech Stack
-
-<p align="center"><i>Languages, frameworks, and tools I build with</i></p>
-
-<br>
-
-<p align="center"><b>Languages & Web Development</b></p>
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3E5C9A?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-3E5C9A?style=for-the-badge&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-3E5C9A?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-3E5C9A?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Tailwind_CSS-3E5C9A?style=for-the-badge&logo=tailwindcss&logoColor=white">
-<img src="https://img.shields.io/badge/React-3E5C9A?style=for-the-badge&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/Java-3E5C9A?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/C-3E5C9A?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/C++-3E5C9A?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-</p>
+<h2 align="center">🛠️ STACK</h2>
+<p align="center"><i>Tools I reach for and the kind of problems I enjoy</i></p>
 
 <br>
 
-<p align="center"><b>AI / Machine Learning & Data Science</b></p>
-<p align="center">
-<img src="https://img.shields.io/badge/PyTorch-1F6F5C?style=for-the-badge&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/TensorFlow-1F6F5C?style=for-the-badge&logo=tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/scikit--learn-1F6F5C?style=for-the-badge&logo=scikitlearn&logoColor=white">
-<img src="https://img.shields.io/badge/OpenCV-1F6F5C?style=for-the-badge&logo=opencv&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-1F6F5C?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-1F6F5C?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Matplotlib-1F6F5C?style=for-the-badge&logo=plotly&logoColor=white">
-<img src="https://img.shields.io/badge/Plotly-1F6F5C?style=for-the-badge&logo=plotly&logoColor=white">
-<img src="https://img.shields.io/badge/Jupyter-1F6F5C?style=for-the-badge&logo=jupyter&logoColor=white">
-<img src="https://img.shields.io/badge/Google_Colab-1F6F5C?style=for-the-badge&logo=googlecolab&logoColor=white">
-<img src="https://img.shields.io/badge/Kaggle-1F6F5C?style=for-the-badge&logo=kaggle&logoColor=white">
-<img src="https://img.shields.io/badge/Roboflow-1F6F5C?style=for-the-badge&logo=roboflow&logoColor=white">
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="280">
+      <h3>LANGUAGES</h3>
+      <img src="https://skillicons.dev/icons?i=python,js,html,css,tailwind,react,java,c,cpp&theme=dark&perline=3" /><br><br>
+      <sub>Plus whatever the project needs.<br>(I read docs for fun, apparently)</sub>
+    </td>
+    <td align="center" width="280">
+      <h3>FOCUS</h3>
+      <img src="https://img.shields.io/badge/AI%2FML-6C5CE7?style=for-the-badge&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Computer%20Vision-00B894?style=for-the-badge&logoColor=white"/><br><br>
+      <img src="https://img.shields.io/badge/Data%20Science-0984E3?style=for-the-badge&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Web%20Dev-E17055?style=for-the-badge&logoColor=white"/><br><br>
+      <img src="https://img.shields.io/badge/Automation-FDCB6E?style=for-the-badge&logoColor=black"/>
+      <img src="https://img.shields.io/badge/APIs-D63031?style=for-the-badge&logoColor=white"/><br><br>
+      <img src="https://img.shields.io/badge/Databases-00CEC9?style=for-the-badge&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Clean%20UX-A29BFE?style=for-the-badge&logoColor=black"/>
+    </td>
+    <td align="center" width="280">
+      <h3>TOOLS</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql,pytorch,tensorflow,opencv,r&theme=dark&perline=3" />
+    </td>
+  </tr>
+</table>
 
-<br>
-
-<p align="center"><b>Tools, Databases & Cloud</b></p>
-<p align="center">
-<img src="https://img.shields.io/badge/Git-A6702F?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-A6702F?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/VS_Code-A6702F?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-A6702F?style=for-the-badge&logo=linux&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-A6702F?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Oracle_APEX-A6702F?style=for-the-badge&logo=oracle&logoColor=white">
-<img src="https://img.shields.io/badge/Cloudinary-A6702F?style=for-the-badge&logo=cloudinary&logoColor=white">
-<img src="https://img.shields.io/badge/Canva-A6702F?style=for-the-badge&logo=canva&logoColor=white">
-<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-A6702F?style=for-the-badge&logo=cisco&logoColor=white">
-<img src="https://img.shields.io/badge/AutoCAD-A6702F?style=for-the-badge&logo=autodesk&logoColor=white">
-<img src="https://img.shields.io/badge/Code::Blocks-A6702F?style=for-the-badge&logo=codeblocks&logoColor=white">
-</p>
-
-<br>
+<p align="center"><sub>PS: If this README looks calm, it's because the chaos is neatly organized.</sub></p>
 
 <p align="center"><i>Plus whatever the project needs — I pick up new tools fast.</i></p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
