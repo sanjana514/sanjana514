@@ -32,7 +32,7 @@
 
 🔗 Full publication list on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=1Er-jQIAAAAJ)
 
-### 📌 Featured Projects
+## 📌 Featured Projects
 
 ####  AI / ML / Computer Vision
 
@@ -42,7 +42,7 @@
 - **Real-Time Sunflower Detection System** — Real-time sunflower detection using semi-supervised and self-supervised deep learning, deployed as an interactive web application for precision agriculture.
   → [GitHub](https://github.com/sanjana514/Real_Time_Sunflower_Detection_Dashboard)
 
-- **Plant Disease Classification using Deep Learning & Explainable AI** — 21-class plant disease classifier (12,786 images, 6 vegetable types) comparing a custom CNN against transfer learning (DenseNet201 — 98.98% accuracy), with model interpretability via Grad-CAM, Grad-CAM++, Eigen-CAM & LIME.
+- **Plant Disease Classification using Deep Learning & Explainable AI** — 21 class plant disease classifier (12,786 images, 6 vegetable types) comparing a custom CNN against transfer learning (DenseNet201 — 98.98% accuracy), with model interpretability via Grad-CAM, Grad-CAM++, Eigen-CAM & LIME.
   → [GitHub](https://github.com/sanjana514/plant-disease-classification-xai)
 
 ####  Big Data Analytics
@@ -58,12 +58,12 @@
 
 ####  Full-Stack Development
 
-- **Job Portal with Dynamic Portfolio Builder** — Full-stack MERN job portal (TypeScript backend, JWT auth, Cloudinary file uploads) paired with a companion portfolio builder that lets users generate and download a customized portfolio as a PDF, backed by MongoDB.
+- **Job Portal with Dynamic Portfolio Builder** — Full stack MERN job portal (TypeScript backend, JWT auth, Cloudinary file uploads) paired with a companion portfolio builder that lets users generate and download a customized portfolio as a PDF, backed by MongoDB.
   → [GitHub](https://github.com/sanjana514/JOB-PORTAL-WITH-DYNAMIC-PORTFOLIO-BUILDER)
 
 ####  Database Systems
 
-- **Event Management System** — Full-featured event management platform built on Oracle APEX with 20+ relational entities, role-based authentication/authorization, and automated triggers.
+- **Event Management System** — Full featured event management platform built on Oracle APEX with 20+ relational entities, role-based authentication/authorization, and automated triggers.
   → [GitHub](https://github.com/sanjana514/Event-Management-System)
 
 
