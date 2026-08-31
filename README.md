@@ -90,13 +90,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-800080?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjana-kazi-supti-28b095388/)
 
 <div align="center">
-<h2><samp>STACK</samp></h2>
-<sup>Tools I reach for and the kind of problems I enjoy</sup>
+  <h2><samp>STACK</samp></h2>
+  <sup>Tools I reach for and the kind of problems I enjoy</sup>
 </div>
 
 <table width="100%">
   <tr>
-    <!-- LANGUAGES & DEVELOPMENT -->
+    <!-- ========== LANGUAGES & DEVELOPMENT ========== -->
     <td width="34%" valign="top" align="center">
       <h3><samp>LANGUAGES & DEVELOPMENT</samp></h3>
       <table>
@@ -116,29 +116,30 @@
           <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" width="28" alt="SQL" title="SQL" /></td>
         </tr>
       </table>
-      <p><sub>Plus whatever the project needs.</sub><br><sub>(I read docs for fun, apparently)</sub></p>
+      <p>
+        <sub>Plus whatever the project needs.</sub><br>
+        <sub>(I read docs for fun, apparently)</sub>
+      </p>
     </td>
-
-    <!-- AI / ML & DATA SCIENCE -->
+   <!-- ========== AI / ML & DATA SCIENCE ========== -->
     <td width="33%" valign="top" align="center">
       <h3><samp>AI / ML & DATA SCIENCE</samp></h3>
       <p>
         <kbd>Pandas</kbd>
         <kbd>NumPy</kbd>
         <kbd>Matplotlib</kbd>
-        <kbd>Plotly</kbd>
+        <kbd>Plotly</kbd><br>
         <kbd>PyTorch</kbd>
         <kbd>TensorFlow</kbd>
         <kbd>Scikit-Learn</kbd>
-        <kbd>OpenCV</kbd>
+        <kbd>OpenCV</kbd><br>
         <kbd>Jupyter</kbd>
         <kbd>Colab</kbd>
         <kbd>Kaggle</kbd>
         <kbd>Roboflow</kbd>
       </p>
     </td>
-
-    <!-- TOOLS & PLATFORMS -->
+<!-- ========== TOOLS & PLATFORMS ========== -->
     <td width="33%" valign="top" align="center">
       <h3><samp>TOOLS & PLATFORMS</samp></h3>
       <table>
@@ -150,7 +151,7 @@
         </tr>
         <tr>
           <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="28" width="28" alt="Canva" title="Canva" /></td>
-          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="28" width="28" alt="Oracle APEX" title="Oracle APEX" /></td>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="28" width="28" alt="Oracle" title="Oracle APEX" /></td>
         </tr>
       </table>
       <p>
@@ -162,7 +163,6 @@
     </td>
   </tr>
 </table>
-
 <h6><samp>PS: If this README looks calm, it's because the chaos is neatly organized.</samp></h6>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
