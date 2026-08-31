@@ -32,23 +32,20 @@
 
 🔗 Full publication list on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=1Er-jQIAAAAJ)
 
-
 ### 📌 Featured Projects
 
-#### 🎯 Core Focus: AI, Computer Vision & Big Data
+####  AI / ML / Computer Vision
 
-**🤖 AI / Computer Vision**
-
-- **Vision-Guided Robotic System for Automated Vegetable Sorting** — Self-supervised, vision-guided robotic system for intelligent post-harvest vegetable freshness sorting in precision agriculture. Implementation of our published research *(see Publications)*.
+- **Vision-Guided Robotic System for Automated Vegetable Sorting** — Self-supervised, vision-guided robotic system for intelligent post-harvest vegetable freshness sorting in precision agriculture.
   → [GitHub](https://github.com/sanjana514/Vision-Guided-Robotic-System)
 
-- **Real-Time Sunflower Detection System** — Real-time sunflower detection using semi-supervised and self-supervised deep learning, deployed as an interactive web application for precision agriculture. Implementation of our published research *(see Publications)*.
+- **Real-Time Sunflower Detection System** — Real-time sunflower detection using semi-supervised and self-supervised deep learning, deployed as an interactive web application for precision agriculture.
   → [GitHub](https://github.com/sanjana514/Real_Time_Sunflower_Detection_Dashboard)
 
 - **Plant Disease Classification using Deep Learning & Explainable AI** — 21-class plant disease classifier (12,786 images, 6 vegetable types) comparing a custom CNN against transfer learning (DenseNet201 — 98.98% accuracy), with model interpretability via Grad-CAM, Grad-CAM++, Eigen-CAM & LIME.
   → [GitHub](https://github.com/sanjana514/plant-disease-classification-xai)
 
-**📊 Big Data Analytics**
+####  Big Data Analytics
 
 - **FAISS Product Matching System** — Semantic product search engine built with FAISS and Sentence-Transformers, comparing 4 indexing strategies (FlatL2, FlatIP, IVF, HNSW) with real Recall/Precision/F1/MAP evaluation, benchmarked up to 200K records.
   → [GitHub](https://github.com/sanjana514/big-data-analytics-projects/tree/main/faiss%20product%20matching%20application)
@@ -59,19 +56,15 @@
 - **Movie Recommendation System** — Content-based recommendation engine built on the TMDB 5000 dataset, using feature engineering across genres, cast, crew, and overview text, vectorized with CountVectorizer and ranked by cosine similarity.
   → [GitHub](https://github.com/sanjana514/Movie_Recommendation_System)
 
-<details>
-<summary><strong>💻 Other Development Projects</strong> (click to expand)</summary>
-<br>
+####  Full-Stack Development
 
 - **Job Portal with Dynamic Portfolio Builder** — Full-stack MERN job portal (TypeScript backend, JWT auth, Cloudinary file uploads) paired with a companion portfolio builder that lets users generate and download a customized portfolio as a PDF, backed by MongoDB.
   → [GitHub](https://github.com/sanjana514/JOB-PORTAL-WITH-DYNAMIC-PORTFOLIO-BUILDER)
 
-- **Event Management System** — Full-featured event management platform built on Oracle APEX with 20+ relational entities, role-based authentication/authorization, and automated triggers *(group project, 3 members — 35% individual contribution)*.
+####  Database Systems
+
+- **Event Management System** — Full-featured event management platform built on Oracle APEX with 20+ relational entities, role-based authentication/authorization, and automated triggers.
   → [GitHub](https://github.com/sanjana514/Event-Management-System)
-
-</details>
-
-
 
 
 ##  Socials:
