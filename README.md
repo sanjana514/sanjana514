@@ -91,67 +91,50 @@
 
 <div align="center">
 
-### STACK
+<div align="center">
 
-<br>
+### STACK
 
 <em>Tools I reach for and the kind of problems I enjoy</em>
 
 <br><br>
 
 <table>
-  <tr>
-    <!-- LANGUAGES -->
-    <td width="33%" align="center" valign="top">
-      <h3>LANGUAGES</h3>
-      <br>
-      <p>
-        <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css" width="48" />
-      </p>
-      <br>
-      <p>
-        <img src="https://skillicons.dev/icons?i=react,tailwind" width="48" />
-      </p>
-      <br>
-      <sub>Plus whatever the project needs.<br>(I read docs for fun, apparently)</sub>
-    </td>
+<tr>
+<td align="center" width="340">
 
-    <!-- FOCUS -->
-    <td width="34%" align="center" valign="top">
-      <h3>FOCUS</h3>
-      <br><br>
-      <code>automation</code>&nbsp;
-      <code>tooling</code>&nbsp;
-      <code>web</code>&nbsp;
-      <code>clean UX</code>
-      <br><br>
-      <code>performance</code>&nbsp;
-      <code>testing</code>&nbsp;
-      <code>APIs</code>&nbsp;
-      <code>security</code>
-      <br><br>
-      <code>ML / AI</code>&nbsp;
-      <code>data</code>&nbsp;
-      <code>computer vision</code>
-    </td>
+### LANGUAGES
 
-    <!-- TOOLS -->
-    <td width="33%" align="center" valign="top">
-      <h3>TOOLS</h3>
-      <br>
-      <p>
-        <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker" width="48" />
-      </p>
-      <br>
-      <p>
-        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,pandas,numpy" width="48" />
-      </p>
-      <br>
-      <p>
-        <img src="https://skillicons.dev/icons?i=jupyter,mysql,postman" width="48" />
-      </p>
-    </td>
-  </tr>
+<br>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,react,tailwind" />
+
+<br><br>
+
+<sub>Plus whatever the project needs.<br>(I read docs for fun, apparently)</sub>
+
+</td>
+<td align="center" width="280">
+
+### FOCUS
+
+<br><br>
+
+`automation` &nbsp; `tooling` &nbsp; `web` &nbsp; `clean UX`  
+`performance` &nbsp; `testing` &nbsp; `APIs` &nbsp; `security`  
+`ML / AI` &nbsp; `data` &nbsp; `computer vision`
+
+</td>
+<td align="center" width="340">
+
+### TOOLS
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker,pytorch,tensorflow,opencv,pandas,numpy,jupyter,mysql" />
+
+</td>
+</tr>
 </table>
 
 <br>
