@@ -69,17 +69,17 @@
 ## Experience
 
 **Undergraduate Teaching Assistant** — Department of Computer Science & Engineering, East West University
-(*Spring 2026*)
+( *Spring 2026* )
 - Helped run an AI, Machine Learning & Computer Vision course, including the lab sessions
 - Took student office hours to clear up doubts, and handled invigilation for the mid and final exam along with calculating and tabulating marks
 
 **Undergraduate Teaching Assistant** — Department of Mathematics and Data Science, East West University
-(*Fall 2024 – Spring 2025*)
+( *Fall 2024 – Spring 2025* )
 - Supported two courses — MAT101 (Differential & Integral Calculus) and MAT102 (Differential Equations & Special Functions)
 - Helped prepare course materials, held office hours for student queries, and assisted the instructor with grading, quiz invigilation, and marks calculation
 
 **Private Tutor** — Self-employed
-(*2020 – Present*)
+( *2020 – Present* )
 
 ##  Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SanjanaKaziSupti)&nbsp;
