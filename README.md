@@ -96,7 +96,7 @@
 
 <table width="100%">
   <tr>
-    <!-- ========== LANGUAGES & DEVELOPMENT ========== -->
+    <!-- LANGUAGES & DEVELOPMENT -->
     <td width="34%" valign="top" align="center">
       <h3><samp>LANGUAGES & DEVELOPMENT</samp></h3>
       <table>
@@ -121,7 +121,7 @@
         <sub>(I read docs for fun, apparently)</sub>
       </p>
     </td>
-   <!-- ========== AI / ML & DATA SCIENCE ========== -->
+  <!-- AI / ML & DATA SCIENCE -->
     <td width="33%" valign="top" align="center">
       <h3><samp>AI / ML & DATA SCIENCE</samp></h3>
       <p>
@@ -139,13 +139,13 @@
         <kbd>Roboflow</kbd>
       </p>
     </td>
-<!-- ========== TOOLS & PLATFORMS ========== -->
+<!-- TOOLS & PLATFORMS -->
     <td width="33%" valign="top" align="center">
       <h3><samp>TOOLS & PLATFORMS</samp></h3>
       <table>
         <tr>
           <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" width="28" alt="Git" title="Git" /></td>
-          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="28" width="28" alt="GitHub" title="GitHub" /></td>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="28" width="28" alt="GitHub" title="GitHub" /></td>
           <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="28" width="28" alt="VS Code" title="VS Code" /></td>
           <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="28" width="28" alt="Linux" title="Linux" /></td>
         </tr>
@@ -154,15 +154,15 @@
           <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="28" width="28" alt="Oracle" title="Oracle APEX" /></td>
         </tr>
       </table>
-      <p>
-        <kbd>Cisco Packet Tracer</kbd>
-        <kbd>AutoCAD</kbd>
-        <kbd>Code::Blocks</kbd>
-        <kbd>Cloudinary</kbd>
-      </p>
+      <br>
+      <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" height="22"/>
+      <img src="https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=autodesk&logoColor=white" height="22"/>
+      <img src="https://img.shields.io/badge/Code%3A%3ABlocks-00599C?style=flat-square&logo=codeblocks&logoColor=white" height="22"/>
+      <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" height="22"/>
     </td>
   </tr>
 </table>
+
 <h6><samp>PS: If this README looks calm, it's because the chaos is neatly organized.</samp></h6>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
