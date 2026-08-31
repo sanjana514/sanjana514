@@ -99,21 +99,21 @@
     <!-- LANGUAGES & DEVELOPMENT -->
     <td width="34%" valign="top" align="center">
       <h3><samp>LANGUAGES & DEVELOPMENT</samp></h3>
-      <table>
+      <table cellpadding="10" cellspacing="0">
         <tr>
-          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="28" width="28" alt="C" title="C" /></td>
-          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="28" width="28" alt="C++" title="C++" /></td>
-          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28" width="28" alt="Java" title="Java" /></td>
-          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" width="28" alt="Python" title="Python" /></td>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="32" width="32" alt="C" title="C" /></td>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" width="32" alt="C++" title="C++" /></td>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" width="32" alt="Java" title="Java" /></td>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" width="32" alt="Python" title="Python" /></td>
         </tr>
         <tr>
-          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" width="28" alt="JavaScript" title="JavaScript" /></td>
-          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" width="28" alt="HTML5" title="HTML5" /></td>
-          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" width="28" alt="CSS3" title="CSS3" /></td>
-          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" width="28" alt="React" title="React" /></td>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" width="32" alt="JavaScript" title="JavaScript" /></td>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" width="32" alt="HTML5" title="HTML5" /></td>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" width="32" alt="CSS3" title="CSS3" /></td>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" width="32" alt="React" title="React" /></td>
         </tr>
         <tr>
-          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" width="28" alt="SQL" title="SQL" /></td>
+          <td colspan="4"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" width="32" alt="SQL" title="SQL" /></td>
         </tr>
       </table>
       <p>
@@ -121,7 +121,7 @@
         <sub>(I read docs for fun, apparently)</sub>
       </p>
     </td>
-  <!-- AI / ML & DATA SCIENCE -->
+<!-- AI / ML & DATA SCIENCE (unchanged) -->
     <td width="33%" valign="top" align="center">
       <h3><samp>AI / ML & DATA SCIENCE</samp></h3>
       <p>
@@ -142,29 +142,37 @@
 <!-- TOOLS & PLATFORMS -->
     <td width="33%" valign="top" align="center">
       <h3><samp>TOOLS & PLATFORMS</samp></h3>
-      <table>
+      <table cellpadding="10" cellspacing="0">
         <tr>
-          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" width="28" alt="Git" title="Git" /></td>
-          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="28" width="28" alt="GitHub" title="GitHub" /></td>
-          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="28" width="28" alt="VS Code" title="VS Code" /></td>
-          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="28" width="28" alt="Linux" title="Linux" /></td>
+          <td>
+            <img src="https://cdn.simpleicons.org/git/F05032" height="32" width="32" alt="Git" title="Git" />
+          </td>
+          <td>
+            <img src="https://cdn.simpleicons.org/github/ffffff#gh-dark-mode-only" height="32" width="32" alt="GitHub" title="GitHub" />
+            <img src="https://cdn.simpleicons.org/github/181717#gh-light-mode-only" height="32" width="32" alt="GitHub" title="GitHub" />
+          </td>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="32" width="32" alt="VS Code" title="VS Code" /></td>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" width="32" alt="Linux" title="Linux" /></td>
         </tr>
         <tr>
-          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="28" width="28" alt="Canva" title="Canva" /></td>
-          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="28" width="28" alt="Oracle" title="Oracle APEX" /></td>
+          <td><img src="https://cdn.simpleicons.org/canva/00C4CC" height="32" width="32" alt="Canva" title="Canva" /></td>
+          <td><img src="https://cdn.simpleicons.org/cloudinary/3448C5" height="32" width="32" alt="Cloudinary" title="Cloudinary" /></td>
+          <td><img src="https://cdn.simpleicons.org/autocad/E51050" height="32" width="32" alt="AutoCAD" title="AutoCAD" /></td>
+          <td><img src="https://cdn.simpleicons.org/codeblocks/1D9DFF" height="32" width="32" alt="Code::Blocks" title="Code::Blocks" /></td>
+        </tr>
+        <tr>
+          <td><img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="32" width="32" alt="Cisco Packet Tracer" title="Cisco Packet Tracer" /></td>
+          <td colspan="3">
+            <img src="https://cdn.simpleicons.org/oracle/F80000" height="32" width="32" alt="Oracle APEX" title="Oracle APEX" /><br>
+            <sub>Oracle APEX</sub>
+          </td>
         </tr>
       </table>
-      <br>
-      <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" height="22"/>
-      <img src="https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=autodesk&logoColor=white" height="22"/>
-      <img src="https://img.shields.io/badge/Code%3A%3ABlocks-00599C?style=flat-square&logo=codeblocks&logoColor=white" height="22"/>
-      <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" height="22"/>
     </td>
   </tr>
 </table>
 
 <h6><samp>PS: If this README looks calm, it's because the chaos is neatly organized.</samp></h6>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
