@@ -88,135 +88,121 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjanakazisupti@gmail.com)&nbsp;
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/sanjana514)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-800080?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjana-kazi-supti-28b095388/)
+
+
 <h2 align="center">🛠️ Skills & Tech Stack</h2>
-<p align="center"><i>Languages, frameworks, tools, and technologies I build with</i></p>
+
+<p align="center">
+  <i>Languages, frameworks, tools, and technologies I build with</i>
+</p>
 
 <br>
 
-<table align="center" width="100%">
-  <tr>
+<table align="center">
+<tr>
 
-```
-<!-- LANGUAGES & DEVELOPMENT -->
-<td align="center" valign="top" width="33%">
+<td align="center" valign="top">
 
-  <h3>💻 LANGUAGES & DEVELOPMENT</h3>
+<h3>💻 LANGUAGES & DEVELOPMENT</h3>
 
-  <p>
-    <img src="https://skillicons.dev/icons?i=python&theme=dark" width="45"/>
-    <img src="https://skillicons.dev/icons?i=js&theme=dark" width="45"/>
-    <img src="https://skillicons.dev/icons?i=html&theme=dark" width="45"/>
-    <img src="https://skillicons.dev/icons?i=css&theme=dark" width="45"/>
-  </p>
+<p>
+<img src="https://skillicons.dev/icons?i=python" alt="Python">
+<img src="https://skillicons.dev/icons?i=js" alt="JavaScript">
+<img src="https://skillicons.dev/icons?i=html" alt="HTML">
+</p>
 
-  <p>
-    <img src="https://skillicons.dev/icons?i=java&theme=dark" width="45"/>
-    <img src="https://skillicons.dev/icons?i=c&theme=dark" width="45"/>
-    <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="45"/>
-    <img src="https://skillicons.dev/icons?i=react&theme=dark" width="45"/>
-  </p>
+<p>
+<img src="https://skillicons.dev/icons?i=css" alt="CSS">
+<img src="https://skillicons.dev/icons?i=java" alt="Java">
+<img src="https://skillicons.dev/icons?i=c" alt="C">
+</p>
 
-  <p>
-    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="45"/>
-  </p>
-
-  <br>
-
-  <sub>
-    Programming languages and web technologies<br>
-    for building applications, interfaces & solutions.
-  </sub>
+<p>
+<img src="https://skillicons.dev/icons?i=cpp" alt="C++">
+<img src="https://skillicons.dev/icons?i=react" alt="React">
+<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL">
+</p>
 
 </td>
 
+<td align="center" valign="top">
 
-<!-- AI / ML & DATA SCIENCE -->
-<td align="center" valign="top" width="33%">
+<h3>🤖 AI / ML & DATA SCIENCE</h3>
 
-  <h3>🤖 AI / ML & DATA SCIENCE</h3>
+<p>
+<img src="https://img.shields.io/badge/Pandas-D4A5A5?style=for-the-badge&logo=pandas&logoColor=1a1a1a">
+<img src="https://img.shields.io/badge/NumPy-9BC1BC?style=for-the-badge&logo=numpy&logoColor=1a1a1a">
+</p>
 
-  <p>
-    <img src="https://img.shields.io/badge/Pandas-D4A5A5?style=for-the-badge&logo=pandas&logoColor=1a1a1a"/>
-    <img src="https://img.shields.io/badge/NumPy-9BC1BC?style=for-the-badge&logo=numpy&logoColor=1a1a1a"/>
-  </p>
+<p>
+<img src="https://img.shields.io/badge/Matplotlib-F4A261?style=for-the-badge&logo=plotly&logoColor=1a1a1a">
+<img src="https://img.shields.io/badge/Plotly-C9ADA7?style=for-the-badge&logo=plotly&logoColor=1a1a1a">
+</p>
 
-  <p>
-    <img src="https://img.shields.io/badge/Matplotlib-F4A261?style=for-the-badge&logo=plotly&logoColor=1a1a1a"/>
-    <img src="https://img.shields.io/badge/Plotly-C9ADA7?style=for-the-badge&logo=plotly&logoColor=1a1a1a"/>
-  </p>
+<p>
+<img src="https://img.shields.io/badge/PyTorch-E8A87C?style=for-the-badge&logo=pytorch&logoColor=1a1a1a">
+<img src="https://img.shields.io/badge/TensorFlow-B8B8D1?style=for-the-badge&logo=tensorflow&logoColor=1a1a1a">
+</p>
 
-  <p>
-    <img src="https://img.shields.io/badge/PyTorch-E8A87C?style=for-the-badge&logo=pytorch&logoColor=1a1a1a"/>
-    <img src="https://img.shields.io/badge/TensorFlow-B8B8D1?style=for-the-badge&logo=tensorflow&logoColor=1a1a1a"/>
-  </p>
+<p>
+<img src="https://img.shields.io/badge/Scikit--Learn-A8DADC?style=for-the-badge&logo=scikitlearn&logoColor=1a1a1a">
+<img src="https://img.shields.io/badge/OpenCV-CDB4DB?style=for-the-badge&logo=opencv&logoColor=1a1a1a">
+</p>
 
-  <p>
-    <img src="https://img.shields.io/badge/Scikit--Learn-A8DADC?style=for-the-badge&logo=scikitlearn&logoColor=1a1a1a"/>
-    <img src="https://img.shields.io/badge/OpenCV-CDB4DB?style=for-the-badge&logo=opencv&logoColor=1a1a1a"/>
-  </p>
+<p>
+<img src="https://img.shields.io/badge/Jupyter-F6BD60?style=for-the-badge&logo=jupyter&logoColor=1a1a1a">
+<img src="https://img.shields.io/badge/Colab-84A98C?style=for-the-badge&logo=googlecolab&logoColor=1a1a1a">
+</p>
 
-  <p>
-    <img src="https://img.shields.io/badge/Jupyter-F6BD60?style=for-the-badge&logo=jupyter&logoColor=1a1a1a"/>
-    <img src="https://img.shields.io/badge/Colab-84A98C?style=for-the-badge&logo=googlecolab&logoColor=1a1a1a"/>
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/Kaggle-A0C4FF?style=for-the-badge&logo=kaggle&logoColor=1a1a1a"/>
-    <img src="https://img.shields.io/badge/Roboflow-FFC8A2?style=for-the-badge&logo=roboflow&logoColor=1a1a1a"/>
-  </p>
+<p>
+<img src="https://img.shields.io/badge/Kaggle-A0C4FF?style=for-the-badge&logo=kaggle&logoColor=1a1a1a">
+<img src="https://img.shields.io/badge/Roboflow-FFC8A2?style=for-the-badge&logo=roboflow&logoColor=1a1a1a">
+</p>
 
 </td>
 
+<td align="center" valign="top">
 
-<!-- TOOLS & PLATFORMS -->
-<td align="center" valign="top" width="33%">
+<h3>⚙️ TOOLS & PLATFORMS</h3>
 
-  <h3>⚙️ TOOLS & PLATFORMS</h3>
+<p>
+<img src="https://skillicons.dev/icons?i=git" alt="Git">
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub">
+<img src="https://skillicons.dev/icons?i=vscode" alt="VS Code">
+</p>
 
-  <p>
-    <img src="https://skillicons.dev/icons?i=git&theme=dark" width="45"/>
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="45"/>
-    <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="45"/>
-  </p>
+<p>
+<img src="https://skillicons.dev/icons?i=linux" alt="Linux">
+<img src="https://skillicons.dev/icons?i=oracle" alt="Oracle">
+</p>
 
-  <p>
-    <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="45"/>
-    <img src="https://skillicons.dev/icons?i=oracle&theme=dark" width="45"/>
-  </p>
+<p>
+<img src="https://img.shields.io/badge/Oracle_APEX-D6CDEA?style=for-the-badge&logo=oracle&logoColor=1a1a1a">
+<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-B5EAD7?style=for-the-badge&logo=cisco&logoColor=1a1a1a">
+</p>
 
-  <p>
-    <img src="https://img.shields.io/badge/Oracle_APEX-D6CDEA?style=for-the-badge&logo=oracle&logoColor=1a1a1a"/>
-    <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-B5EAD7?style=for-the-badge&logo=cisco&logoColor=1a1a1a"/>
-  </p>
+<p>
+<img src="https://img.shields.io/badge/AutoCAD-FFDAC1?style=for-the-badge&logo=autodesk&logoColor=1a1a1a">
+<img src="https://img.shields.io/badge/Cloudinary-C7CEEA?style=for-the-badge&logo=cloudinary&logoColor=1a1a1a">
+</p>
 
-  <p>
-    <img src="https://img.shields.io/badge/AutoCAD-FFDAC1?style=for-the-badge&logo=autodesk&logoColor=1a1a1a"/>
-    <img src="https://img.shields.io/badge/Cloudinary-C7CEEA?style=for-the-badge&logo=cloudinary&logoColor=1a1a1a"/>
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/Canva-FFB7B2?style=for-the-badge&logo=canva&logoColor=1a1a1a"/>
-    <img src="https://img.shields.io/badge/Code::Blocks-B2E2F2?style=for-the-badge&logo=codeblocks&logoColor=1a1a1a"/>
-  </p>
-
-  <br>
-
-  <sub>
-    Development tools, version control,<br>
-    platforms & engineering software.
-  </sub>
+<p>
+<img src="https://img.shields.io/badge/Canva-FFB7B2?style=for-the-badge&logo=canva&logoColor=1a1a1a">
+<img src="https://img.shields.io/badge/CodeBlocks-B2E2F2?style=for-the-badge&logo=codeblocks&logoColor=1a1a1a">
+</p>
 
 </td>
-```
 
-  </tr>
+</tr>
 </table>
 
 <br>
 
 <p align="center">
-  <sub>✨ If this README looks calm, it's because the chaos is neatly organized.</sub>
+  <i>✨ If this README looks calm, it's because the chaos is neatly organized.</i>
 </p>
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <picture>
