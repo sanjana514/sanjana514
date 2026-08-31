@@ -88,150 +88,68 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjanakazisupti@gmail.com)&nbsp;
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/sanjana514)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-800080?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjana-kazi-supti-28b095388/)
+### 🛠️ Skills & Tech Stack
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Skills & Tech Stack</title>
-<script src="https://cdn.tailwindcss.com"></script>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-<style>
-  body { background:#0a0a0c; }
-  .icon-chip img.fallback-hidden { display:none; }
-</style>
-</head>
-<body class="bg-[#0a0a0c] text-gray-200 font-sans px-6 py-14">
+<table align="center">
+<tr>
+<th>Languages & Web</th>
+<th>AI / ML & Data Science</th>
+<th>Databases & Cloud</th>
+<th>Tools & Platforms</th>
+</tr>
+<tr valign="top">
+<td align="center">
 
-  <div class="max-w-5xl mx-auto">
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br>
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br>
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)<br>
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)<br>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)<br>
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)<br>
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-    <!-- Header -->
-    <div class="text-center mb-3">
-      <h1 class="text-2xl md:text-3xl font-semibold tracking-wide text-white">🛠️ Skills &amp; Tech Stack</h1>
-    </div>
-    <p class="text-center text-sm text-gray-500 italic mb-8">Languages, frameworks, and tools I reach for — grouped by what I actually build with</p>
-    <div class="border-t border-white/10 mb-10"></div>
+</td>
+<td align="center">
 
-    <!-- Grid of category cards -->
-    <div class="grid md:grid-cols-2 gap-6">
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)<br>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)<br>
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)<br>
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)<br>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)<br>
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)<br>
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)<br>
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)<br>
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)<br>
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)<br>
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)<br>
+![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge&logo=roboflow&logoColor=white)
 
-      <!-- Languages & Web Development -->
-      <div class="border border-white/10 rounded-xl p-6 bg-white/[0.015]">
-        <h2 class="text-xs tracking-[0.15em] uppercase text-cyan-300/80 font-medium mb-4 pb-3 border-b border-white/10">Languages &amp; Web Development</h2>
-        <div class="flex flex-wrap gap-2.5">
-          <span class="icon-chip inline-flex items-center gap-2 px-3 py-2 rounded-md border border-white/10 bg-white/[0.02] hover:border-cyan-400/40 hover:bg-white/[0.05] transition"><i class="devicon-python-plain colored text-base"></i><span class="text-sm">Python</span></span>
-          <span class="icon-chip inline-flex items-center gap-2 px-3 py-2 rounded-md border border-white/10 bg-white/[0.02] hover:border-cyan-400/40 hover:bg-white/[0.05] transition"><i class="devicon-javascript-plain colored text-base"></i><span class="text-sm">JavaScript</span></span>
-          <span class="icon-chip inline-flex items-center gap-2 px-3 py-2 rounded-md border border-white/10 bg-white/[0.02] hover:border-cyan-400/40 hover:bg-white/[0.05] transition"><i class="devicon-html5-plain colored text-base"></i><span class="text-sm">HTML5</span></span>
-          <span class="icon-chip inline-flex items-center gap-2 px-3 py-2 rounded-md border border-white/10 bg-white/[0.02] hover:border-cyan-400/40 hover:bg-white/[0.05] transition"><i class="devicon-css3-plain colored text-base"></i><span class="text-sm">CSS3</span></span>
-          <span class="icon-chip inline-flex items-center gap-2 px-3 py-2 rounded-md border border-white/10 bg-white/[0.02] hover:border-cyan-400/40 hover:bg-white/[0.05] transition"><i class="devicon-tailwindcss-plain colored text-base"></i><span class="text-sm">Tailwind CSS</span></span>
-          <span class="icon-chip inline-flex items-center gap-2 px-3 py-2 rounded-md border border-white/10 bg-white/[0.02] hover:border-cyan-400/40 hover:bg-white/[0.05] transition"><i class="devicon-react-original colored text-base"></i><span class="text-sm">React</span></span>
-          <span class="icon-chip inline-flex items-center gap-2 px-3 py-2 rounded-md border border-white/10 bg-white/[0.02] hover:border-cyan-400/40 hover:bg-white/[0.05] transition"><i class="devicon-java-plain colored text-base"></i><span class="text-sm">Java</span></span>
-          <span class="icon-chip inline-flex items-center gap-2 px-3 py-2 rounded-md border border-white/10 bg-white/[0.02] hover:border-cyan-400/40 hover:bg-white/[0.05] transition"><i class="devicon-c-plain colored text-base"></i><span class="text-sm">C</span></span>
-          <span class="icon-chip inline-flex items-center gap-2 px-3 py-2 rounded-md border border-white/10 bg-white/[0.02] hover:border-cyan-400/40 hover:bg-white/[0.05] transition"><i class="devicon-cplusplus-plain colored text-base"></i><span class="text-sm">C++</span></span>
-        </div>
-      </div>
+</td>
+<td align="center">
 
-      <!-- AI / ML & Data Science -->
-      <div class="border border-white/10 rounded-xl p-6 bg-white/[0.015]">
-        <h2 class="text-xs tracking-[0.15em] uppercase text-cyan-300/80 font-medium mb-4 pb-3 border-b border-white/10">AI / Machine Learning &amp; Data Science</h2>
-        <div class="flex flex-wrap gap-2.5">
-          <span class="icon-chip inline-flex items-center gap-2 px-3 py-2 rounded-md border border-white/10 bg-white/[0.02] hover:border-cyan-400/40 hover:bg-white/[0.05] transition"><i class="devicon-pytorch-original colored text-base"></i><span class="text-sm">PyTorch</span></span>
-          <span class="icon-chip inline-flex items-center gap-2 px-3 py-2 rounded-md border border-white/10 bg-white/[0.02] hover:border-cyan-400/40 hover:bg-white/[0.05] transition"><i class="devicon-tensorflow-original colored text-base"></i><span class="text-sm">TensorFlow</span></span>
-          <span class="icon-chip inline-flex items-center gap-2 px-3 py-2 rounded-md border border-white/10 bg-white/[0.02] hover:border-cyan-400/40 hover:bg-white/[0.05] transition"><i class="devicon-scikitlearn-plain colored text-base"></i><span class="text-sm">scikit-learn</span></span>
-          <span class="icon-chip inline-flex items-center gap-2 px-3 py-2 rounded-md border border-white/10 bg-white/[0.02] hover:border-cyan-400/40 hover:bg-white/[0.05] transition"><i class="devicon-opencv-plain colored text-base"></i><span class="text-sm">OpenCV</span></span>
-          <span class="icon-chip inline-flex items-center gap-2 px-3 py-2 rounded-md border border-white/10 bg-white/[0.02] hover:border-cyan-400/40 hover:bg-white/[0.05] transition"><i class="devicon-pandas-original colored text-base"></i><span class="text-sm">Pandas</span></span>
-          <span class="icon-chip inline-flex items-center gap-2 px-3 py-2 rounded-md border border-white/10 bg-white/[0.02] hover:border-cyan-400/40 hover:bg-white/[0.05] transition"><i class="devicon-numpy-original colored text-base"></i><span class="text-sm">NumPy</span></span>
-          <span class="icon-chip inline-flex items-center gap-2 px-3 py-2 rounded-md border border-white/10 bg-white/[0.02] hover:border-cyan-400/40 hover:bg-white/[0.05] transition"><i class="devicon-matplotlib-plain colored text-base"></i><span class="text-sm">Matplotlib</span></span>
-          <span class="icon-chip inline-flex items-center gap-2 px-3 py-2 rounded-md border border-white/10 bg-white/[0.02] hover:border-cyan-400/40 hover:bg-white/[0.05] transition">
-            <img class="fallback-img w-4 h-4" src="https://cdn.simpleicons.org/plotly/3F4F75" alt="" data-fallback="Pl">
-            <span class="text-sm">Plotly</span>
-          </span>
-          <span class="icon-chip inline-flex items-center gap-2 px-3 py-2 rounded-md border border-white/10 bg-white/[0.02] hover:border-cyan-400/40 hover:bg-white/[0.05] transition"><i class="devicon-jupyter-plain colored text-base"></i><span class="text-sm">Jupyter</span></span>
-          <span class="icon-chip inline-flex items-center gap-2 px-3 py-2 rounded-md border border-white/10 bg-white/[0.02] hover:border-cyan-400/40 hover:bg-white/[0.05] transition">
-            <img class="fallback-img w-4 h-4" src="https://cdn.simpleicons.org/googlecolab/F9AB00" alt="" data-fallback="Co">
-            <span class="text-sm">Google Colab</span>
-          </span>
-          <span class="icon-chip inline-flex items-center gap-2 px-3 py-2 rounded-md border border-white/10 bg-white/[0.02] hover:border-cyan-400/40 hover:bg-white/[0.05] transition">
-            <img class="fallback-img w-4 h-4" src="https://cdn.simpleicons.org/kaggle/20BEFF" alt="" data-fallback="Kg">
-            <span class="text-sm">Kaggle</span>
-          </span>
-          <span class="icon-chip inline-flex items-center gap-2 px-3 py-2 rounded-md border border-white/10 bg-white/[0.02] hover:border-cyan-400/40 hover:bg-white/[0.05] transition">
-            <img class="fallback-img w-4 h-4" src="https://cdn.simpleicons.org/roboflow/6706CE" alt="" data-fallback="Rf">
-            <span class="text-sm">Roboflow</span>
-          </span>
-        </div>
-      </div>
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)<br>
+![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white)<br>
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
-      <!-- Databases & Cloud -->
-      <div class="border border-white/10 rounded-xl p-6 bg-white/[0.015]">
-        <h2 class="text-xs tracking-[0.15em] uppercase text-cyan-300/80 font-medium mb-4 pb-3 border-b border-white/10">Databases &amp; Cloud</h2>
-        <div class="flex flex-wrap gap-2.5">
-          <span class="icon-chip inline-flex items-center gap-2 px-3 py-2 rounded-md border border-white/10 bg-white/[0.02] hover:border-cyan-400/40 hover:bg-white/[0.05] transition"><i class="devicon-mysql-plain colored text-base"></i><span class="text-sm">SQL</span></span>
-          <span class="icon-chip inline-flex items-center gap-2 px-3 py-2 rounded-md border border-white/10 bg-white/[0.02] hover:border-cyan-400/40 hover:bg-white/[0.05] transition"><i class="devicon-oracle-original colored text-base"></i><span class="text-sm">Oracle APEX</span></span>
-          <span class="icon-chip inline-flex items-center gap-2 px-3 py-2 rounded-md border border-white/10 bg-white/[0.02] hover:border-cyan-400/40 hover:bg-white/[0.05] transition">
-            <img class="fallback-img w-4 h-4" src="https://cdn.simpleicons.org/cloudinary/3448C5" alt="" data-fallback="Cl">
-            <span class="text-sm">Cloudinary</span>
-          </span>
-        </div>
-      </div>
+</td>
+<td align="center">
 
-      <!-- Tools & Platforms -->
-      <div class="border border-white/10 rounded-xl p-6 bg-white/[0.015]">
-        <h2 class="text-xs tracking-[0.15em] uppercase text-cyan-300/80 font-medium mb-4 pb-3 border-b border-white/10">Tools &amp; Platforms</h2>
-        <div class="flex flex-wrap gap-2.5">
-          <span class="icon-chip inline-flex items-center gap-2 px-3 py-2 rounded-md border border-white/10 bg-white/[0.02] hover:border-cyan-400/40 hover:bg-white/[0.05] transition"><i class="devicon-git-plain colored text-base"></i><span class="text-sm">Git</span></span>
-          <span class="icon-chip inline-flex items-center gap-2 px-3 py-2 rounded-md border border-white/10 bg-white/[0.02] hover:border-cyan-400/40 hover:bg-white/[0.05] transition"><i class="devicon-github-original colored text-base"></i><span class="text-sm">GitHub</span></span>
-          <span class="icon-chip inline-flex items-center gap-2 px-3 py-2 rounded-md border border-white/10 bg-white/[0.02] hover:border-cyan-400/40 hover:bg-white/[0.05] transition"><i class="devicon-vscode-plain colored text-base"></i><span class="text-sm">VS Code</span></span>
-          <span class="icon-chip inline-flex items-center gap-2 px-3 py-2 rounded-md border border-white/10 bg-white/[0.02] hover:border-cyan-400/40 hover:bg-white/[0.05] transition"><i class="devicon-linux-plain colored text-base"></i><span class="text-sm">Linux</span></span>
-          <span class="icon-chip inline-flex items-center gap-2 px-3 py-2 rounded-md border border-white/10 bg-white/[0.02] hover:border-cyan-400/40 hover:bg-white/[0.05] transition">
-            <img class="fallback-img w-4 h-4" src="https://cdn.simpleicons.org/canva/00C4CC" alt="" data-fallback="Cv">
-            <span class="text-sm">Canva</span>
-          </span>
-          <span class="icon-chip inline-flex items-center gap-2 px-3 py-2 rounded-md border border-white/10 bg-white/[0.02] hover:border-cyan-400/40 hover:bg-white/[0.05] transition">
-            <img class="fallback-img w-4 h-4" src="https://cdn.simpleicons.org/cisco/1BA0D7" alt="" data-fallback="Ci">
-            <span class="text-sm">Cisco Packet Tracer</span>
-          </span>
-          <span class="icon-chip inline-flex items-center gap-2 px-3 py-2 rounded-md border border-white/10 bg-white/[0.02] hover:border-cyan-400/40 hover:bg-white/[0.05] transition">
-            <img class="fallback-img w-4 h-4" src="https://cdn.simpleicons.org/autodesk/E51050" alt="" data-fallback="Ac">
-            <span class="text-sm">AutoCAD</span>
-          </span>
-          <span class="icon-chip inline-flex items-center gap-2 px-3 py-2 rounded-md border border-white/10 bg-white/[0.02] hover:border-cyan-400/40 hover:bg-white/[0.05] transition">
-            <img class="fallback-img w-4 h-4" src="https://cdn.simpleicons.org/codeblocks/4285F4" alt="" data-fallback="C::B">
-            <span class="text-sm">Code::Blocks</span>
-          </span>
-        </div>
-      </div>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)<br>
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)<br>
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)<br>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)<br>
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)<br>
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)<br>
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)<br>
+![Code::Blocks](https://img.shields.io/badge/Code::Blocks-4285F4?style=for-the-badge&logo=codeblocks&logoColor=white)
 
-    </div>
+</td>
+</tr>
+</table>
 
-    <!-- Footer -->
-    <div class="text-center mt-10">
-      <p class="text-sm text-gray-500 italic">Plus whatever the project needs — I pick up new tools fast when a problem calls for it.</p>
-    </div>
-    <div class="border-t border-white/10 mt-8 pt-4">
-      <p class="text-xs text-gray-600 text-center">PS: the list is long because the interests are — Web, ML, and everything in between.</p>
-    </div>
-
-  </div>
-
-  <script>
-    // Graceful fallback: if a brand icon CDN image fails to load, swap it for a small initials badge
-    document.querySelectorAll('.fallback-img').forEach(function (img) {
-      img.addEventListener('error', function () {
-        const initials = img.getAttribute('data-fallback') || '?';
-        const span = document.createElement('span');
-        span.className = 'w-4 h-4 flex items-center justify-center text-[9px] font-bold rounded-sm bg-cyan-400/20 text-cyan-200';
-        span.textContent = initials;
-        img.replaceWith(span);
-      });
-    }, { once: true });
-  </script>
-
-</body>
-</html>
-
-
+<p align="center"><i>Plus whatever the project needs — I pick up new tools fast when a problem calls for it.</i></p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <picture>
