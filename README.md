@@ -32,31 +32,44 @@
 
 🔗 Full publication list on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=1Er-jQIAAAAJ)
 
+
 ### 📌 Featured Projects
 
 #### 🎯 Core Focus: AI, Computer Vision & Big Data
 
-- **[Vision-Guided Robotic System for Automated Vegetable Sorting](https://github.com/sanjana514/Vision-Guided-Robotic-System)** — Self-supervised, vision-guided robotic system for intelligent post-harvest vegetable freshness sorting in precision agriculture. Implementation of our published research *(see Publications)*.
+**🤖 AI / Computer Vision**
 
-- **[Real-Time Sunflower Detection System](https://github.com/sanjana514/Real_Time_Sunflower_Detection_Dashboard)** — Real-time sunflower detection using semi-supervised and self-supervised deep learning, deployed as an interactive web application for precision agriculture. Implementation of our published research *(see Publications)*.
+- **Vision-Guided Robotic System for Automated Vegetable Sorting** — Self-supervised, vision-guided robotic system for intelligent post-harvest vegetable freshness sorting in precision agriculture. Implementation of our published research *(see Publications)*.
+  → [GitHub](https://github.com/sanjana514/Vision-Guided-Robotic-System)
 
-- **[Plant Disease Classification using Deep Learning & Explainable AI](https://github.com/sanjana514/plant-disease-classification-xai)** — 21-class plant disease classifier (12,786 images, 6 vegetable types) comparing a custom CNN against transfer learning (DenseNet201 — 98.98% accuracy), with model interpretability via Grad-CAM, Grad-CAM++, Eigen-CAM & LIME.
+- **Real-Time Sunflower Detection System** — Real-time sunflower detection using semi-supervised and self-supervised deep learning, deployed as an interactive web application for precision agriculture. Implementation of our published research *(see Publications)*.
+  → [GitHub](https://github.com/sanjana514/Real_Time_Sunflower_Detection_Dashboard)
 
-- **[FAISS Product Matching System](https://github.com/sanjana514/big-data-analytics-projects/tree/main/faiss%20product%20matching%20application)** — Semantic product search engine built with FAISS and Sentence-Transformers, comparing 4 indexing strategies (FlatL2, FlatIP, IVF, HNSW) with real Recall/Precision/F1/MAP evaluation, benchmarked up to 200K records.
+- **Plant Disease Classification using Deep Learning & Explainable AI** — 21-class plant disease classifier (12,786 images, 6 vegetable types) comparing a custom CNN against transfer learning (DenseNet201 — 98.98% accuracy), with model interpretability via Grad-CAM, Grad-CAM++, Eigen-CAM & LIME.
+  → [GitHub](https://github.com/sanjana514/plant-disease-classification-xai)
 
-- **[Frequent Pattern Mining Dashboard](https://github.com/sanjana514/big-data-analytics-projects/tree/main/frequent%20pattern%20mining%20dashboard)** — Interactive dashboard for Apriori-based frequent itemset and market-basket analysis, with live parameter tuning and multi-chart visualization.
+**📊 Big Data Analytics**
 
-- **[Movie Recommendation System](https://github.com/sanjana514/Movie_Recommendation_System)** — Content-based recommendation engine built on the TMDB 5000 dataset, using feature engineering across genres, cast, crew, and overview text, vectorized with CountVectorizer and ranked by cosine similarity.
+- **FAISS Product Matching System** — Semantic product search engine built with FAISS and Sentence-Transformers, comparing 4 indexing strategies (FlatL2, FlatIP, IVF, HNSW) with real Recall/Precision/F1/MAP evaluation, benchmarked up to 200K records.
+  → [GitHub](https://github.com/sanjana514/big-data-analytics-projects/tree/main/faiss%20product%20matching%20application)
+
+- **Frequent Pattern Mining Dashboard** — Interactive dashboard for Apriori-based frequent itemset and market-basket analysis, with live parameter tuning and multi-chart visualization.
+  → [GitHub](https://github.com/sanjana514/big-data-analytics-projects/tree/main/frequent%20pattern%20mining%20dashboard)
+
+- **Movie Recommendation System** — Content-based recommendation engine built on the TMDB 5000 dataset, using feature engineering across genres, cast, crew, and overview text, vectorized with CountVectorizer and ranked by cosine similarity.
+  → [GitHub](https://github.com/sanjana514/Movie_Recommendation_System)
 
 <details>
 <summary><strong>💻 Other Development Projects</strong> (click to expand)</summary>
+<br>
 
-- **[Job Portal with Dynamic Portfolio Builder](https://github.com/sanjana514/JOB-PORTAL-WITH-DYNAMIC-PORTFOLIO-BUILDER)** — Full-stack MERN job portal (TypeScript backend, JWT auth, Cloudinary file uploads) paired with a companion portfolio builder that lets users generate and download a customized portfolio as a PDF, backed by MongoDB.
+- **Job Portal with Dynamic Portfolio Builder** — Full-stack MERN job portal (TypeScript backend, JWT auth, Cloudinary file uploads) paired with a companion portfolio builder that lets users generate and download a customized portfolio as a PDF, backed by MongoDB.
+  → [GitHub](https://github.com/sanjana514/JOB-PORTAL-WITH-DYNAMIC-PORTFOLIO-BUILDER)
 
-- **[Event Management System](https://github.com/sanjana514/Event-Management-System)** — Full-featured event management platform built on Oracle APEX with 20+ relational entities, role-based authentication/authorization, and automated triggers *(group project, 3 members — 35% individual contribution)*.
+- **Event Management System** — Full-featured event management platform built on Oracle APEX with 20+ relational entities, role-based authentication/authorization, and automated triggers *(group project, 3 members — 35% individual contribution)*.
+  → [GitHub](https://github.com/sanjana514/Event-Management-System)
 
 </details>
-
 
 
 
