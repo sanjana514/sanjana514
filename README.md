@@ -89,57 +89,72 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/sanjana514)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-800080?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjana-kazi-supti-28b095388/)
 
-<div align="center">
-
-### STACK
-
-<em>Tools I reach for and the kind of problems I enjoy</em>
-
-<br><br>
-
-<table>
-<tr>
-<td align="center" width="340" valign="top">
-
-### LANGUAGES
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react&theme=dark&perline=4" />
-
-<br><br>
-
-<sub>Plus whatever the project needs.<br>(I read docs for fun, apparently)</sub>
-
-</td>
-<td align="center" width="280" valign="top">
-
-### FOCUS
-
-<br><br>
-
-`automation` &nbsp; `tooling` &nbsp; `web` &nbsp; `clean UX`  
-`performance` &nbsp; `testing` &nbsp; `APIs` &nbsp; `security`  
-`ML / AI` &nbsp; `data` &nbsp; `computer vision`
-
-</td>
-<td align="center" width="340" valign="top">
-
-### TOOLS
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,pytorch,tensorflow,opencv,pandas,numpy,jupyter,mysql&theme=dark&perline=4" />
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<sub>PS: If this README looks calm, it's because the chaos is neatly organized.</sub>
+<h2><samp>STACK</samp></h2>
+<sup>Tools I reach for and the kind of problems I enjoy</sup>
 
 </div>
+
+<table width="100%">
+  <tr>
+    <td width="34%" valign="top" align="center">
+      <h3><samp>LANGUAGES</samp></h3>
+      <table>
+        <tr>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="28" width="28" alt="C" title="C" /></td>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="28" width="28" alt="C++" title="C++" /></td>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="28" width="28" alt="Bash" title="Bash" /></td>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" width="28" alt="Python" title="Python" /></td>
+        </tr>
+        <tr>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28" width="28" alt="Java" title="Java" /></td>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" width="28" alt="JavaScript" title="JavaScript" /></td>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" width="28" alt="TypeScript" title="TypeScript" /></td>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="28" width="28" alt="Go" title="Go" /></td>
+        </tr>
+      </table>
+      <p><sub>Plus whatever the project needs.</sub> <br> <sub>(I read docs for fun, apparently)</sub> </p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3><samp>FOCUS</samp></h3>
+      <p>
+        <kbd>automation</kbd>
+        <kbd>tooling</kbd>
+        <kbd>web</kbd>
+        <kbd>clean UX</kbd>
+        <kbd>performance</kbd>
+        <kbd>testing</kbd>
+        <kbd>APIs</kbd>
+        <kbd>security</kbd>
+      </p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h3><samp>TOOLS</samp></h3>
+      <table>
+        <tr>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" width="28" alt="Git" title="Git" /></td>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="28" width="28" alt="Linux" title="Linux" /></td>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28" width="28" alt="Docker" title="Docker" /></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="28" width="28" alt="VS Code" title="VS Code" /></td>
+        </tr>
+        <tr>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" width="28" alt="React" title="React" /></td>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28" width="28" alt="Node.js" title="Node.js" /></td>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="28" width="28" alt="Next.js" title="Next.js" /></td>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="28" width="28" alt="Tailwind CSS" title="Tailwind CSS" /></td>
+        </tr>
+        <tr>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="28" width="28" alt="Kubernetes" title="Kubernetes" /></td>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="28" width="28" alt="PostgreSQL" title="PostgreSQL" /></td>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="28" width="28" alt="Redis" title="Redis" /></td>
+          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="28" width="28" alt="Nginx" title="Nginx" /></td>
+        </tr>        
+      </table>
+    </td>
+  </tr>
+</table>
+</div>
+
+<h6><samp>PS: If this README looks calm, it's because the chaos is neatly organized.</samp></h6>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <picture>
