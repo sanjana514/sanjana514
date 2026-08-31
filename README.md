@@ -101,37 +101,60 @@
 
 <table>
 <tr>
-<td align="center" width="340">
+<!-- ========== LANGUAGES ========== -->
+<td align="center" width="320" valign="top">
 
 ### LANGUAGES
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,tailwind" width="48" />
 
 <br><br>
 
 <sub>Plus whatever the project needs.<br>(I read docs for fun, apparently)</sub>
 
 </td>
-<td align="center" width="280">
+
+<!-- ========== FOCUS (Button style) ========== -->
+<td align="center" width="300" valign="top">
 
 ### FOCUS
 
 <br><br>
 
-`automation` &nbsp; `tooling` &nbsp; `web` &nbsp; `clean UX`  
-`performance` &nbsp; `testing` &nbsp; `APIs` &nbsp; `security`  
-`ML / AI` &nbsp; `data` &nbsp; `computer vision`
+<img src="https://img.shields.io/badge/automation-1F6F5C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/tooling-1F6F5C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/web-1F6F5C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/clean%20UX-1F6F5C?style=for-the-badge" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/performance-1F6F5C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/testing-1F6F5C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/APIs-1F6F5C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/security-1F6F5C?style=for-the-badge" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/ML%20%2F%20AI-1F6F5C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/data-1F6F5C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/computer%20vision-1F6F5C?style=for-the-badge" />
 
 </td>
-<td align="center" width="340">
+
+<!-- ========== TOOLS ========== -->
+<td align="center" width="320" valign="top">
 
 ### TOOLS
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker,pytorch,tensorflow,opencv,pandas,numpy,jupyter,mysql" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,mysql,pytorch,tensorflow,opencv,pandas,numpy,jupyter" width="48" />
+
+<br><br>
+
+<sub>Git • VS Code • Linux • SQL<br>PyTorch • TensorFlow • OpenCV</sub>
 
 </td>
 </tr>
