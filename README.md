@@ -89,39 +89,51 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/sanjana514)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-800080?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjana-kazi-supti-28b095388/)
 
-<h2 align="center">🛠️ STACK</h2>
-<p align="center"><i>Tools I reach for and the kind of problems I enjoy</i></p>
+<h2 align="center">🛠️ Skills & Tech Stack</h2>
+<p align="center"><i>Languages, tools, and technologies I build with</i></p>
 
 <br>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td align="center" width="280">
-      <h3>LANGUAGES</h3>
-      <img src="https://skillicons.dev/icons?i=python,js,html,css,tailwind,react,java,c,cpp&theme=dark&perline=3" /><br><br>
-      <sub>Plus whatever the project needs.<br>(I read docs for fun, apparently)</sub>
+    <td align="center" valign="top" width="33%">
+      <h3>LANGUAGES & WEB</h3>
+      <img src="https://skillicons.dev/icons?i=python,js,html,css,java,c,cpp,react,mysql&theme=dark&perline=3" /><br><br>
+      <sub>Core stack for building anything from scripts to full web apps.</sub>
     </td>
-    <td align="center" width="280">
-      <h3>FOCUS</h3>
-      <img src="https://img.shields.io/badge/AI%2FML-6C5CE7?style=for-the-badge&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Computer%20Vision-00B894?style=for-the-badge&logoColor=white"/><br><br>
-      <img src="https://img.shields.io/badge/Data%20Science-0984E3?style=for-the-badge&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Web%20Dev-E17055?style=for-the-badge&logoColor=white"/><br><br>
-      <img src="https://img.shields.io/badge/Automation-FDCB6E?style=for-the-badge&logoColor=black"/>
-      <img src="https://img.shields.io/badge/APIs-D63031?style=for-the-badge&logoColor=white"/><br><br>
-      <img src="https://img.shields.io/badge/Databases-00CEC9?style=for-the-badge&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Clean%20UX-A29BFE?style=for-the-badge&logoColor=black"/>
+    <td align="center" valign="top" width="33%">
+      <h3>AI / ML & DATA SCIENCE</h3>
+      <img src="https://img.shields.io/badge/Pandas-D4A5A5?style=for-the-badge&logo=pandas&logoColor=1a1a1a"/>
+      <img src="https://img.shields.io/badge/NumPy-9BC1BC?style=for-the-badge&logo=numpy&logoColor=1a1a1a"/><br><br>
+      <img src="https://img.shields.io/badge/Matplotlib-F4A261?style=for-the-badge&logo=plotly&logoColor=1a1a1a"/>
+      <img src="https://img.shields.io/badge/Plotly-C9ADA7?style=for-the-badge&logo=plotly&logoColor=1a1a1a"/><br><br>
+      <img src="https://img.shields.io/badge/PyTorch-E8A87C?style=for-the-badge&logo=pytorch&logoColor=1a1a1a"/>
+      <img src="https://img.shields.io/badge/TensorFlow-B8B8D1?style=for-the-badge&logo=tensorflow&logoColor=1a1a1a"/><br><br>
+      <img src="https://img.shields.io/badge/Scikit_Learn-A8DADC?style=for-the-badge&logo=scikitlearn&logoColor=1a1a1a"/>
+      <img src="https://img.shields.io/badge/OpenCV-CDB4DB?style=for-the-badge&logo=opencv&logoColor=1a1a1a"/><br><br>
+      <img src="https://img.shields.io/badge/Jupyter-F6BD60?style=for-the-badge&logo=jupyter&logoColor=1a1a1a"/>
+      <img src="https://img.shields.io/badge/Colab-84A98C?style=for-the-badge&logo=googlecolab&logoColor=1a1a1a"/><br><br>
+      <img src="https://img.shields.io/badge/Kaggle-A0C4FF?style=for-the-badge&logo=kaggle&logoColor=1a1a1a"/>
+      <img src="https://img.shields.io/badge/Roboflow-FFC8A2?style=for-the-badge&logo=roboflow&logoColor=1a1a1a"/>
     </td>
-    <td align="center" width="280">
-      <h3>TOOLS</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql,pytorch,tensorflow,opencv,r&theme=dark&perline=3" />
+    <td align="center" valign="top" width="33%">
+      <h3>TOOLS & PLATFORMS</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,oracle&theme=dark&perline=3" /><br><br>
+      <img src="https://img.shields.io/badge/Oracle_APEX-D6CDEA?style=for-the-badge&logo=oracle&logoColor=1a1a1a"/>
+      <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-B5EAD7?style=for-the-badge&logo=cisco&logoColor=1a1a1a"/><br><br>
+      <img src="https://img.shields.io/badge/AutoCAD-FFDAC1?style=for-the-badge&logo=autodesk&logoColor=1a1a1a"/>
+      <img src="https://img.shields.io/badge/Cloudinary-C7CEEA?style=for-the-badge&logo=cloudinary&logoColor=1a1a1a"/><br><br>
+      <img src="https://img.shields.io/badge/Canva-FFB7B2?style=for-the-badge&logo=canva&logoColor=1a1a1a"/>
+      <img src="https://img.shields.io/badge/Code::Blocks-B2E2F2?style=for-the-badge&logo=codeblocks&logoColor=1a1a1a"/><br><br>
+      <sub>Editors, version control & design/engineering software.</sub>
     </td>
   </tr>
 </table>
 
+<br>
+
 <p align="center"><sub>PS: If this README looks calm, it's because the chaos is neatly organized.</sub></p>
 
-<p align="center"><i>Plus whatever the project needs — I pick up new tools fast.</i></p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
