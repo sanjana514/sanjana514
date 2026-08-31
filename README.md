@@ -89,35 +89,128 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/sanjana514)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-800080?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjana-kazi-supti-28b095388/)
 
-### 🛠️ Skills & Tech Stack
+```md
+<!-- ===================== SKILLS & TECH STACK ===================== -->
 
-**Languages & Web Development**
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-A9B8E8?style=flat-square&logo=python&logoColor=2B2B2B) ![Java](https://img.shields.io/badge/Java-9AAEDD?style=flat-square&logo=openjdk&logoColor=2B2B2B) ![C](https://img.shields.io/badge/C-B4C2EA?style=flat-square&logo=c&logoColor=2B2B2B) ![C++](https://img.shields.io/badge/C++-8CA0D6?style=flat-square&logo=c%2B%2B&logoColor=2B2B2B) ![JavaScript](https://img.shields.io/badge/JavaScript-C3CDF0?style=flat-square&logo=javascript&logoColor=2B2B2B) ![HTML5](https://img.shields.io/badge/HTML5-AEBEE8?style=flat-square&logo=html5&logoColor=2B2B2B) ![CSS3](https://img.shields.io/badge/CSS3-A0B3E3?style=flat-square&logo=css3&logoColor=2B2B2B) ![React](https://img.shields.io/badge/React-97ACDB?style=flat-square&logo=react&logoColor=2B2B2B)
+# ✦ Skills & Tech Stack ✦
+
+### `Code • Analyze • Automate • Innovate`
+
+<p>
+  Technologies, tools, and platforms I use to build, analyze, design, and create.
+</p>
 
 </div>
 
-**AI / Machine Learning & Data Science**
+<br/>
+
+<!-- ===================== PROGRAMMING ===================== -->
+
+## 🧑‍💻 Programming & Web Development
+
 <div align="center">
 
-![NumPy](https://img.shields.io/badge/NumPy-B8DBC5?style=flat-square&logo=numpy&logoColor=1F332A) ![Pandas](https://img.shields.io/badge/Pandas-A6D2B5?style=flat-square&logo=pandas&logoColor=1F332A) ![Matplotlib](https://img.shields.io/badge/Matplotlib-C4E1CD?style=flat-square&logo=plotly&logoColor=1F332A) ![Plotly](https://img.shields.io/badge/Plotly-9ECBB0?style=flat-square&logo=plotly&logoColor=1F332A) ![scikit--learn](https://img.shields.io/badge/scikit--learn-8FC3A5?style=flat-square&logo=scikitlearn&logoColor=1F332A) ![PyTorch](https://img.shields.io/badge/PyTorch-7FB999?style=flat-square&logo=pytorch&logoColor=1F332A) ![TensorFlow](https://img.shields.io/badge/TensorFlow-93C6A6?style=flat-square&logo=tensorflow&logoColor=1F332A) ![OpenCV](https://img.shields.io/badge/OpenCV-A6D2B5?style=flat-square&logo=opencv&logoColor=1F332A) ![Roboflow](https://img.shields.io/badge/Roboflow-B0D8BE?style=flat-square&logo=roboflow&logoColor=1F332A)
+<img src="https://skillicons.dev/icons?i=python,java,js,c,cpp,html,css,react&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/SQL-6C8EBF?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-5B6FDE?style=for-the-badge&logo=python&logoColor=FFE873" />
+<img src="https://img.shields.io/badge/JavaScript-E7B75B?style=for-the-badge&logo=javascript&logoColor=1F2937" />
+<img src="https://img.shields.io/badge/React-73CFE6?style=for-the-badge&logo=react&logoColor=18212F" />
+<img src="https://img.shields.io/badge/Java-E88B72?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C-7D9BC1?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-846FB5?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E77C62?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-648BC7?style=for-the-badge&logo=css3&logoColor=white" />
 
 </div>
 
-**Databases & Cloud**
+<br/>
+
+<!-- ===================== DATA SCIENCE ===================== -->
+
+## 📊 Data Science, AI & Machine Learning
+
 <div align="center">
 
-![SQL](https://img.shields.io/badge/SQL-D5B9DD?style=flat-square&logo=mysql&logoColor=2E1F33) ![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-C7A8D1?style=flat-square&logo=oracle&logoColor=2E1F33) ![Cloudinary](https://img.shields.io/badge/Cloudinary-DEC2E4?style=flat-square&logo=cloudinary&logoColor=2E1F33)
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/NumPy-657DB8?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-745C9E?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-D97C74?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Plotly-7A6CB4?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-E98269?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-EFA35B?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-E9A65F?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-6298C8?style=for-the-badge&logo=opencv&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Jupyter-E68C68?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Colab-DFA94C?style=for-the-badge&logo=googlecolab&logoColor=white" />
+<img src="https://img.shields.io/badge/Kaggle-67B8D7?style=for-the-badge&logo=kaggle&logoColor=white" />
+<img src="https://img.shields.io/badge/Roboflow-9B79C6?style=for-the-badge&logo=roboflow&logoColor=white" />
 
 </div>
 
-**Tools & Platforms**
+<br/>
+
+<!-- ===================== DEVELOPMENT TOOLS ===================== -->
+
+## 🛠️ Development Tools & Platforms
+
 <div align="center">
 
-![Git](https://img.shields.io/badge/Git-EBC29B?style=flat-square&logo=git&logoColor=332111) ![GitHub](https://img.shields.io/badge/GitHub-E3B58A?style=flat-square&logo=github&logoColor=332111) ![VS Code](https://img.shields.io/badge/VS_Code-F0CBA5?style=flat-square&logo=visualstudiocode&logoColor=332111) ![Jupyter](https://img.shields.io/badge/Jupyter-E8C193?style=flat-square&logo=jupyter&logoColor=332111) ![Google Colab](https://img.shields.io/badge/Google_Colab-EDCA9E?style=flat-square&logo=googlecolab&logoColor=332111) ![Kaggle](https://img.shields.io/badge/Kaggle-DDB182?style=flat-square&logo=kaggle&logoColor=332111) ![Linux](https://img.shields.io/badge/Linux-F2D2AC?style=flat-square&logo=linux&logoColor=332111) ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-E6BC93?style=flat-square&logo=cisco&logoColor=332111) ![AutoCAD](https://img.shields.io/badge/AutoCAD-EFC69F?style=flat-square&logo=autodesk&logoColor=332111) ![Canva](https://img.shields.io/badge/Canva-E9C69C?style=flat-square&logo=canva&logoColor=332111) ![Code::Blocks](https://img.shields.io/badge/Code::Blocks-DFB78C?style=flat-square&logo=codeblocks&logoColor=332111)
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Git-E67C61?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-625B78?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-5DA7C5?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-D3A64F?style=for-the-badge&logo=linux&logoColor=232323" />
+<img src="https://img.shields.io/badge/Code::Blocks-7184A8?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle%20APEX-D86D69?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudinary-6875D8?style=for-the-badge&logo=cloudinary&logoColor=white" />
 
 </div>
+
+<br/>
+
+<!-- ===================== DESIGN + NETWORKING ===================== -->
+
+## 🎨 Design, Networking & Engineering Tools
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Canva-65C7C7?style=for-the-badge&logo=canva&logoColor=white" />
+<img src="https://img.shields.io/badge/AutoCAD-D76C67?style=for-the-badge&logo=autodesk&logoColor=white" />
+<img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-5E93B8?style=for-the-badge&logo=cisco&logoColor=white" />
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### ✨ Always Learning. Always Building.
+
+`Python` • `Web Development` • `Machine Learning` • `Computer Vision` • `Data Science` • `Networking`
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7467A8,35:657FB8,70:D88B7A,100:E5B060&height=100&section=footer" width="100%" />
+
+</div>
+```
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
