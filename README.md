@@ -89,7 +89,6 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/sanjana514)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-800080?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjana-kazi-supti-28b095388/)
 
-
 <h2 align="center">🛠️ Skills & Tech Stack</h2>
 <p align="center"><i>Languages, tools, and technologies I build with</i></p>
 <br>
@@ -99,35 +98,33 @@
     <!-- COLUMN 1: LANGUAGES & WEB -->
     <td align="center" valign="top" width="33%">
       <h3>LANGUAGES & WEB</h3>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40" />
-        <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40" />
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40" /><br>
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40" />
-        <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40" />
-        <img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40" /><br>
-        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40" />
-        <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40" />
-        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40" />
-      </a>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><br>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/><br>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/><br>
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
       <br><br>
       <sub>Core stack for building scripts, algorithms & web apps.</sub>
     </td>
 
-    <!-- COLUMN 2: AI / ML & DATA SCIENCE (BUTTON STYLES) -->
+    <!-- COLUMN 2: AI / ML & DATA SCIENCE -->
     <td align="center" valign="top" width="33%">
       <h3>AI / ML & DATA SCIENCE</h3>
-      <img src="https://img.shields.io/badge/Pandas-D4A5A5?style=for-the-badge&logo=pandas&logoColor=1a1a1a"/>
+      <img src="https://img.shields.io/badge/Pandas-D4A5A5?style=for-the-badge&logo=pandas&logoColor=1a1a1a"/><br>
       <img src="https://img.shields.io/badge/NumPy-9BC1BC?style=for-the-badge&logo=numpy&logoColor=1a1a1a"/><br>
-      <img src="https://img.shields.io/badge/Matplotlib-F4A261?style=for-the-badge&logo=plotly&logoColor=1a1a1a"/>
+      <img src="https://img.shields.io/badge/Matplotlib-F4A261?style=for-the-badge&logo=plotly&logoColor=1a1a1a"/><br>
       <img src="https://img.shields.io/badge/Plotly-C9ADA7?style=for-the-badge&logo=plotly&logoColor=1a1a1a"/><br>
-      <img src="https://img.shields.io/badge/PyTorch-E8A87C?style=for-the-badge&logo=pytorch&logoColor=1a1a1a"/>
+      <img src="https://img.shields.io/badge/PyTorch-E8A87C?style=for-the-badge&logo=pytorch&logoColor=1a1a1a"/><br>
       <img src="https://img.shields.io/badge/TensorFlow-B8B8D1?style=for-the-badge&logo=tensorflow&logoColor=1a1a1a"/><br>
-      <img src="https://img.shields.io/badge/Scikit_Learn-A8DADC?style=for-the-badge&logo=scikitlearn&logoColor=1a1a1a"/>
+      <img src="https://img.shields.io/badge/Scikit_Learn-A8DADC?style=for-the-badge&logo=scikitlearn&logoColor=1a1a1a"/><br>
       <img src="https://img.shields.io/badge/OpenCV-CDB4DB?style=for-the-badge&logo=opencv&logoColor=1a1a1a"/><br>
-      <img src="https://img.shields.io/badge/Jupyter-F6BD60?style=for-the-badge&logo=jupyter&logoColor=1a1a1a"/>
+      <img src="https://img.shields.io/badge/Jupyter-F6BD60?style=for-the-badge&logo=jupyter&logoColor=1a1a1a"/><br>
       <img src="https://img.shields.io/badge/Colab-84A98C?style=for-the-badge&logo=googlecolab&logoColor=1a1a1a"/><br>
-      <img src="https://img.shields.io/badge/Kaggle-A0C4FF?style=for-the-badge&logo=kaggle&logoColor=1a1a1a"/>
+      <img src="https://img.shields.io/badge/Kaggle-A0C4FF?style=for-the-badge&logo=kaggle&logoColor=1a1a1a"/><br>
       <img src="https://img.shields.io/badge/Roboflow-FFC8A2?style=for-the-badge&logo=roboflow&logoColor=1a1a1a"/>
       <br><br>
       <sub>Libraries, frameworks & intelligent data tools.</sub>
@@ -136,17 +133,14 @@
     <!-- COLUMN 3: TOOLS & PLATFORMS -->
     <td align="center" valign="top" width="33%">
       <h3>TOOLS & PLATFORMS</h3>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" />
-        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" />
-        <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40" /><br>
-        <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40" />
-        <img src="https://skillicons.dev/icons?i=oracle" alt="Oracle" width="40" height="40" />
-        <img src="https://skillicons.dev/icons?i=figma" alt="Canva Design" width="40" height="40" /><br>
-      </a>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/><br>
       <img src="https://img.shields.io/badge/Oracle_APEX-D6CDEA?style=for-the-badge&logo=oracle&logoColor=1a1a1a"/><br>
       <img src="https://img.shields.io/badge/Packet_Tracer-B5EAD7?style=for-the-badge&logo=cisco&logoColor=1a1a1a"/><br>
       <img src="https://img.shields.io/badge/AutoCAD-FFDAC1?style=for-the-badge&logo=autodesk&logoColor=1a1a1a"/><br>
+      <img src="https://img.shields.io/badge/Canva-FFB7B2?style=for-the-badge&logo=canva&logoColor=1a1a1a"/><br>
       <img src="https://img.shields.io/badge/Code::Blocks-B2E2F2?style=for-the-badge&logo=codeblocks&logoColor=1a1a1a"/>
       <br><br>
       <sub>Environments, version control & engineering software.</sub>
@@ -156,6 +150,7 @@
 
 <br>
 <p align="center"><sub>PS: If this README looks calm, it's because the chaos is neatly organized.</sub></p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <picture>
