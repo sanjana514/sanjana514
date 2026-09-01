@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sanjana Kazi Supti! ✨</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F7931E&center=true&vCenter=true&width=650&height=18&lines=AI%2FML+Researcher+%7C+Data+Scientist;Computer+Vision+Enthusiast+%7C+3x+Published+Research+Author;Building+Real-World+AI+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F7931E&center=true&vCenter=true&width=650&height=18&lines=AI%2FML+Researcher+%7C+Data+Scientist;Computer+Vision+Enthusiast+%7C+Building+Intelligent+Systems;3x+Published+Research+Author+%7C+Building+Real-World+AI+Solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -8,14 +8,12 @@
 </p>
 
 <p align="center">
-  <a href="mailto:sanjanakazisupti@gmail.com"><img src="https://img.shields.io/badge/Email-sanjanakazisupti%40gmail.com-3A5A7D?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/sanjana-kazi-supti"><img src="https://img.shields.io/badge/LinkedIn-sanjana--kazi--supti-4A6FA5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/></a>
-  <a href="https://github.com/sanjana514"><img src="https://img.shields.io/badge/GitHub-sanjana514-2D3748?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/></a>
-</p>
-<p align="center">
-  <a href="https://scholar.google.com/citations?user=1Er-jQIAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-View_Profile-3F6C74?style=for-the-badge&logo=googlescholar&logoColor=FFFFFF" alt="Google Scholar"/></a>
-  <a href="https://orcid.org/0009-0009-2339-7905"><img src="https://img.shields.io/badge/ORCID-0009--0009--2339--7905-4F7A6E?style=for-the-badge&logo=orcid&logoColor=FFFFFF" alt="ORCID"/></a>
-  <a href="https://www.kaggle.com/sanjana514"><img src="https://img.shields.io/badge/Kaggle-sanjana514-5B7C99?style=for-the-badge&logo=kaggle&logoColor=FFFFFF" alt="Kaggle"/></a>
+  <a href="mailto:sanjanakazisupti@gmail.com"><img src="https://img.shields.io/badge/Email-sanjanakazisupti%40gmail.com-6B84A8?style=flat&logo=gmail&logoColor=FFFFFF" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/sanjana-kazi-supti"><img src="https://img.shields.io/badge/LinkedIn-sanjana--kazi--supti-5C7A99?style=flat&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/></a>
+  <a href="https://github.com/sanjana514"><img src="https://img.shields.io/badge/GitHub-sanjana514-3A4A63?style=flat&logo=github&logoColor=FFFFFF" alt="GitHub"/></a>
+  <a href="https://scholar.google.com/citations?user=1Er-jQIAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-View_Profile-6B9080?style=flat&logo=googlescholar&logoColor=FFFFFF" alt="Google Scholar"/></a>
+  <a href="https://orcid.org/0009-0009-2339-7905"><img src="https://img.shields.io/badge/ORCID-0009--0009--2339--7905-7FA69C?style=flat&logo=orcid&logoColor=FFFFFF" alt="ORCID"/></a>
+  <a href="https://www.kaggle.com/sanjana514"><img src="https://img.shields.io/badge/Kaggle-sanjana514-8CA3C7?style=flat&logo=kaggle&logoColor=FFFFFF" alt="Kaggle"/></a>
 </p>
 
 ###  About Me
