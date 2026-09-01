@@ -7,6 +7,17 @@
   <img src="https://komarev.com/ghpvc/?username=sanjana514&color=F7931E&style=flat" alt="Profile Views"/>
 </p>
 
+<p align="center">
+  <a href="mailto:sanjanakazisupti@gmail.com"><img src="https://img.shields.io/badge/Email-sanjanakazisupti%40gmail.com-3A5A7D?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/sanjana-kazi-supti"><img src="https://img.shields.io/badge/LinkedIn-sanjana--kazi--supti-4A6FA5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/></a>
+  <a href="https://github.com/sanjana514"><img src="https://img.shields.io/badge/GitHub-sanjana514-2D3748?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/></a>
+</p>
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=1Er-jQIAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-View_Profile-3F6C74?style=for-the-badge&logo=googlescholar&logoColor=FFFFFF" alt="Google Scholar"/></a>
+  <a href="https://orcid.org/0009-0009-2339-7905"><img src="https://img.shields.io/badge/ORCID-0009--0009--2339--7905-4F7A6E?style=for-the-badge&logo=orcid&logoColor=FFFFFF" alt="ORCID"/></a>
+  <a href="https://www.kaggle.com/sanjana514"><img src="https://img.shields.io/badge/Kaggle-sanjana514-5B7C99?style=for-the-badge&logo=kaggle&logoColor=FFFFFF" alt="Kaggle"/></a>
+</p>
+
 ###  About Me
 - Recent CSE Graduate from East West University, Dhaka, Bangladesh, passionate about building AI solutions that matter
 - Published 3 research papers in AI, Machine Learning & Intelligent Systems, with growing focus on Computer Vision
