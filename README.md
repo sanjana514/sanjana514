@@ -13,7 +13,7 @@
   <a href="https://github.com/sanjana514"><img src="https://img.shields.io/badge/GitHub-sanjana514-3A4A63?style=flat&logo=github&logoColor=FFFFFF" alt="GitHub"/></a>
   <a href="https://scholar.google.com/citations?user=1Er-jQIAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-View_Profile-2B2E38?style=flat&logo=googlescholar&logoColor=FFFFFF" alt="Google Scholar"/></a>
   <a href="https://orcid.org/0009-0009-2339-7905"><img src="https://img.shields.io/badge/ORCID-0009--0009--2339--7905-264D3B?style=flat&logo=orcid&logoColor=FFFFFF" alt="ORCID"/></a>
-  <a href="https://www.kaggle.com/sanjana514"><img src="https://img.shields.io/badge/Kaggle-sanjana514-1B3A4B?style=flat&logo=kaggle&logoColor=FFFFFF" alt="Kaggle"/></a>
+  <a href="https://www.kaggle.com/sanjana514"><img src="https://img.shields.io/badge/Kaggle-sanjana514-2C5F6F?style=flat&logo=kaggle&logoColor=FFFFFF" alt="Kaggle"/></a>
 </p>
 
 ###  About Me
