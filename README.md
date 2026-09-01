@@ -41,7 +41,7 @@
 
 🔗 Full publication list on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=1Er-jQIAAAAJ)
 
-## 📌 Featured Projects
+## § Featured Projects
 
 ####  AI / ML / Computer Vision
 
