@@ -111,7 +111,7 @@
           <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" width="32" alt="HTML5" title="HTML5" /></td>
         </tr>
         <tr>
-          <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" width="32" alt="CSS3" title="CSS3" /></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="32" width="32" alt="Tailwind CSS" title="Tailwind CSS" /></td>
           <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" width="32" alt="React" title="React" /></td>
           <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" width="32" alt="SQL" title="SQL" /></td>
         </tr>
