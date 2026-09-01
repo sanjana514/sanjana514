@@ -90,7 +90,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-800080?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjana-kazi-supti-28b095388/)
 
 <div align="center">
-  <h2><samp>STACK</samp></h2>
+  <h2><samp>SKILLS & TECH STACK</samp></h2>
   <sup>Tools I reach for and the kind of problems I enjoy</sup>
 </div>
 
