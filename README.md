@@ -16,7 +16,7 @@
   <a href="https://www.kaggle.com/sanjana514"><img src="https://img.shields.io/badge/Kaggle-sanjana514-4E4560?style=flat&logo=kaggle&logoColor=FFFFFF" alt="Kaggle"/></a>
 </p>
 
-###  About Me
+## About Me
 - Recent CSE Graduate from East West University, Dhaka, Bangladesh, passionate about building AI solutions that matter
 - Published 3 research papers in AI, Machine Learning & Intelligent Systems, with growing focus on Computer Vision
 - Aiming to pursue graduate research in AI/ML and Big Data, tackling real-world challenges through applied research
