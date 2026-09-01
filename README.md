@@ -120,7 +120,7 @@
       <p><sub>Core languages I build and experiment with.</sub></p>
     </td>
     <!-- AI / ML & DATA SCIENCE -->
-    <td width="33%" valign="top" align="center">
+    <td width="38%" valign="top" align="center">
       <h3><samp>AI / ML & DATA SCIENCE</samp></h3>
       <p>
         <kbd>Pandas</kbd>
