@@ -87,9 +87,8 @@
 - Supported two courses — MAT101 (Differential & Integral Calculus) and MAT102 (Differential Equations & Special Functions)
 - Helped prepare course materials, held office hours for student queries, and assisted the instructor with grading, quiz invigilation, and marks calculation
 
-**Private Tutor** — Self-employed
-( *2020 – Present* )
-
+**Private Tutor** — Self-employed ( *2020 – Present* )
+- Teaching school level students on a one-on-one basis
 
 <div align="center">
   <h2><samp>SKILLS & TECH STACK</samp></h2>
