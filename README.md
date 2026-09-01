@@ -13,7 +13,7 @@
   <a href="https://github.com/sanjana514"><img src="https://img.shields.io/badge/GitHub-sanjana514-3A4A63?style=flat&logo=github&logoColor=FFFFFF" alt="GitHub"/></a>
   <a href="https://scholar.google.com/citations?user=1Er-jQIAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-View_Profile-2B2E38?style=flat&logo=googlescholar&logoColor=FFFFFF" alt="Google Scholar"/></a>
   <a href="https://orcid.org/0009-0009-2339-7905"><img src="https://img.shields.io/badge/ORCID-0009--0009--2339--7905-264D3B?style=flat&logo=orcid&logoColor=FFFFFF" alt="ORCID"/></a>
-  <a href="https://www.kaggle.com/sanjana514"><img src="https://img.shields.io/badge/Kaggle-sanjana514-2C5F6F?style=flat&logo=kaggle&logoColor=FFFFFF" alt="Kaggle"/></a>
+  <a href="https://www.kaggle.com/sanjana514"><img src="https://img.shields.io/badge/Kaggle-sanjana514-4E4560?style=flat&logo=kaggle&logoColor=FFFFFF" alt="Kaggle"/></a>
 </p>
 
 ###  About Me
@@ -90,13 +90,6 @@
 **Private Tutor** — Self-employed
 ( *2020 – Present* )
 
-##  Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SanjanaKaziSupti)&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/squirrelsss__)&nbsp;
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sanjana05)&nbsp;
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjanakazisupti@gmail.com)&nbsp;
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/sanjana514)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-800080?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjana-kazi-supti-28b095388/)
 
 <div align="center">
   <h2><samp>SKILLS & TECH STACK</samp></h2>
