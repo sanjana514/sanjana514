@@ -8,12 +8,11 @@
 </p>
 
 
-
 <p align="center">
   <a href="mailto:sanjanakazisupti@gmail.com"><img src="https://img.shields.io/badge/Email-sanjanakazisupti%40gmail.com-6B84A8?style=flat&logo=gmail&logoColor=FFFFFF" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/sanjana-kazi-supti"><img src="https://img.shields.io/badge/LinkedIn-Profile-8B6F8C?style=flat&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/sanjana-kazi-supti"><img src="https://img.shields.io/badge/LinkedIn-View_Profile-8B6F8C?style=flat&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/></a>
   <a href="https://github.com/sanjana514"><img src="https://img.shields.io/badge/GitHub-sanjana514-3A4A63?style=flat&logo=github&logoColor=FFFFFF" alt="GitHub"/></a>
-  <a href="https://scholar.google.com/citations?user=1Er-jQIAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-Profile-2B2E38?style=flat&logo=googlescholar&logoColor=FFFFFF" alt="Google Scholar"/></a>
+  <a href="https://scholar.google.com/citations?user=1Er-jQIAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-View_Profile-2B2E38?style=flat&logo=googlescholar&logoColor=FFFFFF" alt="Google Scholar"/></a>
   <a href="https://orcid.org/0009-0009-2339-7905"><img src="https://img.shields.io/badge/ORCID-0009--0009--2339--7905-264D3B?style=flat&logo=orcid&logoColor=FFFFFF" alt="ORCID"/></a>
   <a href="https://sites.google.com/view/sanjanakazisupti/home"><img src="https://img.shields.io/badge/Portfolio-sanjana--kazi--supti-4A8A82?style=flat&logo=googlechrome&logoColor=FFFFFF" alt="Portfolio"/></a>
 </p>
